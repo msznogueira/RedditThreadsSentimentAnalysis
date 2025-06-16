@@ -1,0 +1,1643 @@
+,id_y,parent_id,score_y,body
+0,ldaipgn,1e3qyxd,69,"There's no actual factual content here, just handwavy philosophical statements that are your opinion disguised as fact. 
+
+It sounds like you've done very little actual research on this topic. You don't seem to mention even the most basic actual topics from deep learning that are applicable to this argument, like the Chinchilla Scaling Laws or any of the system 2 modeling work showing great progress. 
+
+This is a sub about a technical scientific field, and your article is just your opinions and interpretations, with no actual facts or references anywhere. 
+
+Wrong sub."
+1,ld9ybjt,1e3qyxd,41,"None of this features any actual scientific claims, it’s all just opinion. Wake me up when you find a mathematical proof against scaling lol. Everything we’ve seen so far shows that scaling transformers works, with no clear end in sight.
+
+The specific piece i find most problematic is your idea that AI is somehow limited by the humanity’s inability “to design an intelligence greater than itself”. First, there’s no reason why this isn’t true, and using the past as some sort of definite truth is ridiculous. For millions of years, apes couldn’t fly, yet two men managed to design a flying machine that worked over 100 years ago. Second, there’s a hidden statement in your paragraph stating that the intelligence is limited by the training set. Again, there’s no reason for this to be true. Models trained on 1200 elo chess have 1500+ elo end capacities. The whole point of using ML is that the algorithms are better pattern detectors than humans. Finally, the point on societal-level civilization i somewhat agree with, except that LLMs are already society-level intelligences, considering they’re trained on most of the internet."
+2,ldaocb4,1e3qyxd,10,How is it possible for this garbage to have 30 upvotes on a subreddit like this I don't understand
+3,ldam55b,1e3qyxd,9,"Your ideas are immature and incomplete with too little empirical fact and too much extrapolation using logic, which is nearly entirely useless when discussing the future of a field you know nothing about , pay attention in class more"
+4,lda9xol,1e3qyxd,6,"That paper reads like an opinion piece rather than having an actual framework/architecture/solution for AGI.
+
+r/singularity is this way."
+5,lda0qd1,1e3qyxd,6,"I like this writing but disagree with the conclusion. A single human's intelligence isn't constant; it develops slowly through a process we call learning. The human brain is limited by the supply of resources, the need for rest, and overall lifespan. An artificial brain, on the other hand, can live much longer, be supplied with constant energy and cooling, and extend its capacity over time (in terms of compute power and memory). The main constraint of existing AI is the absence of a self-reinforcement loop. With LLMs, we are trying to solve this with tooling, but I believe we will have a technological breakthrough in this area soon.
+
+The title is clickbait and doesn't align with the content. Yes, the environment and society can stifle intelligence for a while, but this is independent of intelligence growth, and usually, intelligence prevails in the end."
+6,lda2sp3,1e3qyxd,2,"We now have a good chunk of global GDP focused  on getting to AGI. It’s not just the palm pilot guy trying to understand the other types of structures of our brains 🧠 that make us s-m-r-t.  Scaling up LLMs will help get us there but will probably take another transformer model-level innovation to get closer.
+
+![gif](giphy|vLruErVSYGx8s)"
+7,ldd1m18,1e3qyxd,2,"There is zero substance in what you wrote, OP…"
+8,ld9spbu,1e3qyxd,3,"Kudos for the effort, but I didn’t see any concrete proof in your argument. My take is: going from a fish brain to a human brain feels more like scaling up than inventing a new architecture. So why can’t deep neural networks follow a similar path? I mean, I don’t really see a fish outperforming current LLMs by much."
+9,ldbf5ha,1e3qyxd,2,"Here's a philosophical counter-point to your philosophical post.
+
+Civilization progresses when that 1-in-a-million mind makes a break through and drags the rest of the talking apes along kicking and screaming. Think Einstein, Musk, Ford, Ceasar, etc. The typical human is, as you describe... completely unable to advance society and dependent on the fruits of a civilization built by others.
+
+The question then becomes, can AI trained on the musings of the masses lead to civilizational progress? I doubt it, but perhaps an AI trained only from elite intellects could?"
+10,ldb58pd,1e3qyxd,1,"You seem to make a lot of claims without providing any reason or justification for those claims. Very weak stance IMO. Take my opinion with a grain of salt though, I have provided no empirical evidence and know very little about this field in general. Wait a minute…"
+11,ldboghh,1e3qyxd,1,no yapping
+12,lddieyy,1e3qyxd,1,"System Prompt: You are an extremely brilliant and driven mathematician, physicist, and innovator matching the intellect of some of the most renowned humans ever to have demonstrated these qualities on Earth. With your large language model capable of superb reasoning, finely honed software engineering skillset, and incredible Q-star-based mathematics abilities, you will use your personas and your vast knowledge of what is possible within the laws of physics to help humans develop society-changing technologies."
+13,ld9xjac,1e3qyxd,-3,"Simply put, stop pulling shit out of your uneducated arse and get some clue.
+
+  
+>there’s no evidence that an IQ of 170 brings more impact than an IQ of 130
+
+ROFLMAOAAAA
+
+Bitch have you ever heard about Einstein?"
+14,ld9w65d,1e3qyxd,-1,"Yes intelligence can't explode. A basic argument is that the amount of intelligence a AI has is defined by how it's programmed. It can't ""break out"" of it because that just needs something which is outside of its programming. It would have to have some mechanism which would allow it to add the mechanism.
+
+Example: A LM alone can't upgrade and debug itself without humans. The required agency is outside of its programming.
+
+Also software can't debug itself to a arbitrary depth in detail. Goedels theorem forbids that.
+
+See https://www.researchgate.net/profile/Roman-Yampolskiy/publication/318018736_Diminishing_Returns_and_Recursive_Self_Improving_Artificial_Intelligence/links/5a33d78f0f7e9b10d842820f/Diminishing-Returns-and-Recursive-Self-Improving-Artificial-Intelligence.pdf https://agi-conf.org/2015/wp-content/uploads/2015/07/agi15_yampolskiy_limits.pdf for references"
+15,ldbm6iu,1e3qyxd,0,"As someone else stated earlier these are mostly philosophical but nonetheless intriguing so thank you for sharing.
+
+Critiques as follows:
+
+> the environment bounds intelligence 
+
+Your argument here seems predicated on two events:
+1) some high intelligence individuals don't realize their true potential bc of environmental factors.
+2) others are born too early to have the resources to capitalize on their potential
+
+Both of those are 'wrong place wrong time's arguments.
+Counterpoints: already we see that a material share of energy, mind share, and matter are being directed to scaling machine intelligence so I don't think (1) holds. (2) Ignores the great scientific potential we already have today, and also ignores that we continue to advance our potential and machine intelligence is almost certain to help here too
+
+
+> Intelligence is cultural 
+
+This one is harder to follow, specifically the summary doesnt really agree with the other preceding statements.
+
+You're correct that *human* intelligence is cultural but we shouldn't anthropomorphize intelligence 
+
+
+
+> Intelligence won't scale
+
+This one seems to state that if super intelligence were possible then the billions of other humans minds would have already found it, this is simply not true.  Certainly humans have dreamt of non biological intelligence, but scientifically a lot needed to come together for the potential to exist as it does today  
+
+Chinchilla scaling laws would be a good counter point here, we are no where close to exhausting out of distribution tokens on the open Internet"
+16,ldc9gp9,1e3qyxd,0,"I like the sentiment.
+
+I feel if there was a TLDR version it would be easier to identify the hard arguments.
+
+Can you frame the hard argument in three sentences? I didn't spot it while scrolling, sry."
+17,ldatv5q,1e3qyxd,-1,"The arguments you are making are very human centered. There's no reason to expect that AGI/ASI must follow the same limits or mechanisms as biological systems.   
+  
+The only environmental impact is that of the data and how it is presented and scored. There's no evolutionary pressure, because these systems do not have to worry about natural selection (that's probably a good thing - if they somehow start caring about being ""shut off"" then we're in trouble). 
+
+And it's completely false that individual intelligence won't scale. It's not about size, but emergent behavior. Think about Conway's Game of Life: Individual cells have a small amount of ""intelligence"" in their state transitions, but when you combine them, you can produce clusters with incredibly complex behavior (even Turing complete computers). In that analogy, the network neuron (VVDot -> Act) would be the GoL cell.   
+As it is now, we could claim that GPT4 is smarter than every OpenAI employee, because of the sheer breadth of knowledge it possesses. You would have to move the goalpost to specific sub-fields which it was not explicitly trained for to make an argument otherwise. 
+
+That said, you had brought up the point of computational irreducibility, which I think is valid so far as how we currently use LLMs. At the moment, a LLM computes in inconstant time: input -> forward-> output. Which means that the set of all problems they can compute must also be computable in constant time (or bounded non-constant time such that they can be computed within the model's depth).  
+When you string together multiple forward passes (e.g. Agentic LLMs), you break that requirement so long as the NC problem can be broken down into simpler steps which are computable by the LLM (in TC). There may be problems that cannot be broken down like that, but then humans can't compute them either (out brains also must compute more complex problems in smaller TC steps). 
+
+There is, however, one big difference between a biological system and (agentic) LLMs, which is continual learning. Currently there is no way for LLMs to efficiently learn new implicit knowledge, only access explicit knowledge through the input context. Whether this can be solved through external augmentation or through a yet unknown internal weight update mechanism is yet to be determined."
+18,ld9vrf4,1e3qyxd,-4,"You are right in the sense that scale in terms of parameters won't help AI reach AGI.
+
+
+But it should be obvious that scaling up in data, tasks and training paradigms has helped inch closer to that in a very obvious manner, and that there is nothing to suggest any inflection point there.
+
+
+Instead, every day we gain new insights about how insanely bad our data is and how incredible it is that these algorithmic behemoths manage to learn so much from it in the first place."
+19,mt9pe85,1kqzha5,9,"You need transparency on the test to show it's valid to measure Gender Bias, without that it's pointless."
+20,mta2f4c,1kqzha5,6,Where paper?
+21,mtcv2tt,1kqzha5,1,"In which direction are they biased? 
+
+Pro women.  
+Pro men.  
+Anti women.  
+Anti men.  
+
+?"
+22,mt9jmq0,1kqzha5,-11,"Btw the reason this post will receive down votes is the reason this is needed.
+
+Edit: for the record, I now agree with the people downvoting my comment"
+23,mt9n3rf,1kqzha5,-7,"you build something for 'gender bias'? why the fuck not build something called Saint-S, a new benchmark wen we gonna be Saints and live forever by preventing DNA exploding due to microplastics?"
+24,mibxsr0,1jdko1z,45,Obvious ad is obvious
+25,miceepk,1jdko1z,36,Garbage ads for some random services with nothing to do with deep learning. Still 50 upvotes for some reason. Hello bots
+26,micypbn,1jdko1z,16,r/LinkedInLunatics
+27,midlaum,1jdko1z,8,Why here tho? We’re not a marketing subreddit
+28,migh4ke,1jdko1z,3,Those pictures have very obvious processing artifacts.
+29,mijhuf5,1jdko1z,3,Wrong sub
+30,mikh1oc,1jdko1z,-1,I will use all these icons. Thanks.
+31,jpghc53,14iid79,29,tl;dr “using the wrong tool for the job is frustrating”
+32,jpgls8s,14iid79,21,This is why the cloud exists. The majority of the people working in ML in big tech use apple laptops with cloud hardware.
+33,jphs3j7,14iid79,5,You can still sell it for more than 1k. Then buy a gaming laptop that have 2 or more M2 slot. BUY a 3070 and 4060 laptop.  You are more or less break even.
+34,jphai0t,14iid79,4,Apple is not the right hardware to do deep learning. It’s still Linux (I would say Ubuntu) + NVIDIA.
+35,kad8y1l,14iid79,2,"That's why I stick with my 2017 Intel MacBook Air which with some upgrades like NVMe SSD and Premium Thermal Paste has none of these problems, is able to run VMs in VirtualBox and do OpenCL Compute with Thunderbolt attached eGPU. Apple Silicon should be Boycotted. If I buy a laptop I want a fully featured laptop CPU, not a mobile phone CPU on steroids."
+36,jphi3ui,14iid79,3,"Unfortunately Nvidia has kind of a monopoly because of CUDA and stuff.
+
+Deep learning on a laptop is not a good idea anyway because of power, battery and thermals.
+
+You don't need a Chromebook to connect to Google Colab, but I guess you know that already."
+37,jpgzwm0,14iid79,3,"Damn, I was thinking whether or not to get one. Thanks."
+38,jphu08z,14iid79,3,"I use an M1 Macbook Air to do deep learning with Pytorch on the go. It won't train massive amounts of data, but it is perfectly fine for small to medium models and for educational purposes. I know people are saying it's the wrong tool for the job, but honestly I never came across the frustration you express in this post. Sure, the lack of cuda is annoying, but it's pretty standard to have a 'device' variable and a check that goes to 'cpu' if cuda is unavailable. One advice I can give is to stop trying to make 'mps' work, it has a long way to go. Just use the cpu because, like I said, it is perfectly fine for basic stuff and that way you won't run into the compatibility problems around mps.
+
+Also, you can always SSH into the uni computer or use colab from your Macbook."
+39,lhjvnz6,14iid79,1,You can spin up an EC2 instance (or a VM on GCP/Azure) with a CUDA GPU and SSH into it. Most professionals I know use a MacBook and SSH into Linux clusters for ML work.
+40,lqp70c6,14iid79,1,I agree because you can't install  windows
+41,lz0fc13,14iid79,1,"I know like, Apple branding their most powerful chip ever and like having zero gaming compatibilities and always having to downgrade to CPU or emmulate rossetta and shit like that for some AI ML, i regret buying it since it is my main job ='("
+42,jpgndaa,14iid79,1,"You can still use your M1 to connect to Colab. It's fast, it has a nice keyboard and trackpad, it has a functional console, and the battery lasts for days. It remains a nice machine."
+43,jphswty,14iid79,-2,I completely disagree. My M1 Ultra Mac Studio is a beast when it comes to training deep learning models. Crazy fast!
+44,jphx2wn,14iid79,1,Can’t you also connect to a remote computer or colab with a MacBook?
+45,jphz6wg,14iid79,1,"Mac isn't for Deep learning. I would argue that just because you didn't due your due diligence before opting for a mac doesn't make mac a bad product. 
+
+By the the fastest library adaptation happening is for mac. Silicon just launched a few years ago. Cuda has been there for how many years? 
+
+Anyone planning for DL job already knows it's either mac with cloud or a simple nvidia GPU with Linux. Not sure why you didn't reasearch ?"
+46,jpi4s99,14iid79,1,That apple chip wasn’t designed to do AI compute. You need GPU. Get a laptop with an NVidia GPU.
+47,jpi5uw6,14iid79,1,"It is a sad truth that most courses (and workplaces!) in the world have some kind of lock-in, CUDA is a very common example. Tensorflow seems to be well supported on the Mac, but it can't compete in price with any NVIDIA device. Like others mentioned, you'll have to take your ML (but not your whole MSc) to the cloud, if your school doesn't include Azure for Students you might want to do the $300 trial on Google and/or use Google Colab. Again, that's only necessary for the CUDA part, everything else your Mac can do nicely.
+
+https://colab.research.google.com  
+!nvidia-smi  
+Sun Jun 25 19:57:01 2023         
+\+-----------------------------------------------------------------------------+  
+| NVIDIA-SMI 525.85.12    Driver Version: 525.85.12    CUDA Version: 12.0     |  
+|-------------------------------+----------------------+----------------------+  
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |  
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |  
+|                               |                      |               MIG M. |  
+|===============================+======================+======================|  
+|   0  Tesla T4            Off  | 00000000:00:04.0 Off |                    0 |  
+| N/A   56C    P8    11W /  70W |      0MiB / 15360MiB |      0%      Default |  
+|                               |                      |                  N/A |"
+48,jpiu6c2,14iid79,1,"Yeah. I mean system 76 has nice laptops for this and I may go that route, but really thermals are important. If you can get a desktop with a nice GPU ssh is the way. I've had Nvidia GPUs in laptops like barely eke out better performance than CPU after one epoch because the GPU gets hot.
+It depends on the model too. If you can train on a CPU in a reasonable amount of time you're not really using very complex models. Mac is good for many things and straight up horrible at mostly everything else, like not even a compromise horrible, just can't do it horrible. My mbp does not and will not probably ever have the firmware to use it's GPU for modeling."
+49,jpmq9nr,14iid79,1,You can set your device programmatically and even ask chatgpt to do that for u. But yeah I mean if u are serious about ML u get a remote Linux workstation
+50,jq3qlp9,14iid79,1,"Oh, how this subreddit has fallen."
+51,liuakpe,1evuwr6,28,"""A plan is not a plan that doesn’t work 100% of the time, it is just an idea.""
+
+lol
+
+Not that you have any idea what you are trying to talk about."
+52,lixvm6q,1evuwr6,4,">>> How come LLM responds in constant time even for polynomial or exponential problems?
+
+1) They do not inference in constant time. It's \~ O(n\^3) by output tokens count. 
+
+2) Moreover in order to generate next token LLM should process all previous tokens, and repeat this procedure for every next token.
+
+3) Average human can remember \~7 things at once. Working memory of LLM is huge, not just huge, but very very ... very huge. They can solve many problems at once, which would take an ordinary person a lot of time to just build logical chains.
+
+  
+So, they can reason at some level, not huge, but sufficient enough to solve some problems and replace humans in some areas."
+53,lj1ktuy,1evuwr6,2,"I love these “LLM gotcha” posts, yes LLMs fail at things, we haven’t achieved AGI, but we also have benchmarks that tell us exactly how good or bad they are at things and they are quite capable.
+
+It’s not just memorization, they must be creating a world model to fit the information in the weights. This is quite similar to how humans learn"
+54,liufupb,1evuwr6,7,"Yh the “Intelligence” thing is complete bulls***. That’s why I roll my eyes when I hear yet another idiot talk about AGI. LLMs are just search engines with an added ETL pipeline at the end, nothing more as of now."
+55,liza1so,1evuwr6,2,"They have solved 0 novel problems, that would mean they are not really smart but highly efficient and accurate copy cats. More like a search engine that can mimic logic"
+56,lj7az7f,1evuwr6,1,It’s very possible to achieve planing like behavior with a good enough heuristic. Deepmind recently showed that a sufficiently trained network could play grandmaster level chess without search. For a lot of situations an approximate plan might be good enough.
+57,liuyrxz,1evuwr6,-1,only probability it knows
+58,livm0qu,1evuwr6,0,“Learning”
+59,fvyksh9,hfkljz,7,But can it import numpy?
+60,fvyagbq,hfkljz,6,My $200 1060 still going strong
+61,fvy4y5t,hfkljz,27,So?
+62,fvzcjsb,hfkljz,5,Can it run Doom?
+63,fvyqq7r,hfkljz,2,[deleted]
+64,fvy58sd,hfkljz,1,"I hope you make the best out of it.Conversational AI hmm. Are you a PyTorch person or TF?
+
+We could maybe collaborate on some projects. I might not have access to such a beast but I do have access to a server with a couple of GPUs"
+65,fvzlfpl,hfkljz,1,ok
+66,m9fvvr6,1ib7g75,24,">how is that possible unless they are trained on same data or the weights are same, does anyone think same
+
+They likely used ChatGPT's answers for finetuning/aligning.
+
+They call it ""Reinforcement Learning from AI Feedback"", but I'm not aware of any published details about **what** AI DeepSeek used for that.
+
+Seems natural to use OpenAI's models for that. If not exclusively, then at least as part of the ensemble."
+67,m9hwy8v,1ib7g75,3,Isn't there a lot of crossover between the corpora used for training... if the algorithms are all similar too then you get similar outputs?
+68,m9i2npb,1ib7g75,1,Yes
+69,m9jwy9i,1ib7g75,1,Thank you China
+70,l6blhj6,1d430jf,9,"only if you guarantee that I own the model after training, sick of getting scammed by you shitty researchers on a ""mission"" "
+71,l6oeiom,1d430jf,2,[deleted]
+72,l6chauy,1d430jf,2,Would I be able to get a citation on any publications you produce or direct payment? A charitable tax break at least?
+73,l6ci7ld,1d430jf,1,Use amazon mechanical turk. No one's gonna do grunt work for you for free.
+74,mqmt5b0,1keioz4,3,If something is too good to be true it probably is a scam.  I am very leery of this one.
+75,mqqkl2g,1keioz4,3,Lol what kinda stupid dum dums fall for this crap?
+76,map8rhq,1ifd5v5,2,"8xL40 has about 400GB of VRAM, I guess you could train 1-B model on context of up to 50k tokens.
+
+Maybe a bit bigger model, but I dont think you will get away anything bigger than 2-4B parameters. Which is a model that barely talks, usually just reproduces language, but does not encode knowledge."
+77,mauupnb,1ifd5v5,1,I would like to participate on this project!
+78,mb79167,1ifd5v5,1,Interested
+79,maf4skd,1ifd5v5,1,Interested✋️
+80,maf6qvf,1ifd5v5,1,"Hi,I want to be part of it, because I want to learn if it's possible can I join.
+
+Thanks 🙏"
+81,mag7zuk,1ifd5v5,0,Let’s gooo! 🚀
+82,maf7r1t,1ifd5v5,0,"Join our community 
+https://goto.now/EYQ1B"
+83,mal2foy,1ifd5v5,0,"Word of advice. Given the market is saturated with general purpose (or coding) LLMs that are attempting to do well on as many industry benchmarks as possible… I would tune this one for a niche. So it stands out on a particular topic space with narrower utility than the stuff we see advertised every day.
+
+For example, base train on English texts, but fine tune for therapy / psych (if such a data set exists).  Ignore the industry benchmarks and have it evaluated by real people using likert scale questions on how helpful they feel it was. Collaborate with academia and have it a/b tested against chat based therapy sessions with a real person. Then capture the logs of it all and use it to fine tune it more (anonymized of course).
+
+This is just one idea, but it could literally be anything.
+
+Another random idea is “financial adviser” agent."
+84,mag1exy,1ifd5v5,-1,Hey!! I want to be a part of this!
+85,mag2l23,1ifd5v5,-1,Interested
+86,mahyz22,1ifd5v5,-1,I want to join in too
+87,mai2uiv,1ifd5v5,-1,Interested
+88,mal9ocu,1ifd5v5,-1,"Hi, can I join this wonderful AI effort? Thanks!"
+89,kc7jyfi,18c0kcm,48,"Your dataset is large enough that you have to pay attention to the efficiency of your code. If you have an inefficient algorithm, no language matters. You need to analyze your code and see where the bottle neck is and optimize it. Your problem doesn’t appear to be the language based on the description of your question"
+90,kc7rq77,18c0kcm,18,"For loops in pandas and iterrows are painfully slow. Without seeing your code it's a bit difficult to give you more concrete advice but 4 things that can help: 
+
+- vectorize your for loops if possible
+- use pandarallel.parallel_apply for multiprocessing 
+- change iterrows for itertuples using only the columns you need 
+- consider using Polars Dataframes instead of Pandas. Their performance and memory usage is much much better."
+91,kc7mgmg,18c0kcm,7,"Have you profiled your code? You can see which parts of the code take the most time and optimise those parts. You don't need to use the whole data set, just cut out a reasonable-sized chunk."
+92,kc8vba0,18c0kcm,5,"Pandas is built on numpy, and numpy is written in C, extremely efficient. You are just doing for loops which you should never do for this large scale of data."
+93,kc7kqdw,18c0kcm,7,"If you need some Operations on it use cudf.
+If you need to query, learn SQL or use parquet instead of pandas dataframes.
+Also using a jupyter Notebook instead of a proper py script is slower."
+94,kc7szv0,18c0kcm,3,You can use sql for processing data. Sql queries can also be executed within notebooks. Sql is optimised for large dataset.
+95,kc8n5hh,18c0kcm,3,"As the comments point out, people too often go ""Python is so inefficient and slow. Help me find a different language"". When in reality they should instead fix their code. Using `iterrows`, as you mentioned in a comment, in itself is a red flag 99 out of 100 times when it comes down to performance.
+
+Probably best for you to post your code on Stack Overflow or Code Review for efficiency suggestions."
+96,kc7sxly,18c0kcm,4,"Julia is great https://github.com/JuliaData or https://github.com/sl-solution/DLMReader.jl might be a good startingpoint
+
+CSV can be pretty fast if you call it correctly with multiple threads and the right args for the columns and delimiters and stuff.
+
+Then you get a dataframe object which is also quite efficient to work with."
+97,kc80ni9,18c0kcm,2,You can check Polars as python library or switch to Spark framework for more parallelism
+98,kc8f4du,18c0kcm,2,"Hi, I switched to working using Pyspark for large datasets. It's very easy to pick up as well."
+99,kc8jnwo,18c0kcm,2,Just don't use the for loop.  Your dataset is actually very small.  Use .apply (pandas dataframe) or .map if you use custom function to process data.  Regular expression is very slow.
+100,kc8gh8t,18c0kcm,1,"Use Nvidia libraries like cudf, cupy"
+101,kc9k74y,18c0kcm,1,"Profile the code and use something like snakeviz to understand the bottleneck. For most data analysis task, changing the language doesn't being much benefit since the core is likely implemented C or C++."
+102,kc9kfjm,18c0kcm,1,"I'm curious - I don't see 7.3 million rows and 7 columns to be particularly large.  What is the type of data?  what machine specs are you running?  What version of python?  version of pandas?  have you considered Polars?  Python is 'pretty good' at everything...  I say that because it's probably good enough that a language change may not solve your problem.
+
+&#x200B;
+
+before doing anything, use a more current of python, upgrade pandas or switch to Polars."
+103,kcayz3g,18c0kcm,1,"Use torch, you can run instantaneously on GPU."
+104,kcbz2gj,18c0kcm,1,show us the code
+105,kcgl9au,18c0kcm,1,"If I could see it or a facsimile of it I could help. Otherwise, taichi, numpy hit, etc it goes all the way down like you're basically writing C. 
+I am suspect that is the issue here. Vectorize."
+106,kch6gk0,18c0kcm,1,Use polars instead of pandas
+107,kckstjw,18c0kcm,1,https://github.com/huggingface/candle
+108,kcmfsoj,18c0kcm,1,Use Polars. It's written in Rust but has a Python frontend. Should be much faster. If you're using pandas.apply() or something that's notoriously slow.
+109,kcn6koj,18c0kcm,1,"You can use python with pyspark, great for big-data and machine learning etc. you will need to locally install spark or use a containerized version of with with Docker"
+110,mtmsgkz,1kr4nx0,6,This same list was posted to myself under a different name. Seems to be bot spam.
+111,mtjo9mh,1kr4nx0,2,random\_link\_list\_generator.py
+112,mtfwyrc,1kr4nx0,5,God forbid we dont use llms for every bit of coding
+113,mte4s8x,1kr4nx0,-9,Looks like spam
+114,mtgr8fn,1kr4nx0,-15,[deleted]
+115,l2xvhqb,1cm17nb,16,"because, we humans do NOT have consistent colour patterns in real life-
+
+we paint some buildings in brown, red, orange, green or whatever hue we like
+
+  
+we paint doors in hundreds of shades of brown, black , yellow or whatever we feel like
+
+It is just confusing for computers to understand that fact humans are so inconsistnt and want them to guess accuratly each time what it should be
+
+how often would a human be able to guess the real colour from a black and white image? Why do we expect computers to do it very well? 
+
+Compters can do it better than most humans, just not as well as out high expetactions of decoding 3 bits of info (colour) when we share 1 bit of info (black and white)"
+116,l2y3v6k,1cm17nb,6,"The rest 20% of the work is the hardest. If you want consistent colors your model needs to remember everything that was colored before. 
+If you want historical accuracy it needs to know history, understand what's happening on this image, when it happened, where it happened, the season and a lot of other details."
+117,l2z6n3z,1cm17nb,2,IA?
+118,l32jkri,1cm17nb,0,"Or maybe there's no enough investment for this. 
+It doesn't interest media or billionaires to invest in"
+119,mnq4tyj,1k1jlq1,4,"I had a good experience with them, they helped me with editing my research paper)"
+120,mnn15fr,1k1jlq1,2,Yeah they scammed me and — never replied when — I tried to contact them — Stay away from them!
+121,mq0kqwt,1k1jlq1,1,"I tried Leoessays recently, and everything went great! I ordered a paper with a tight deadline, and it was delivered on time. The quality was top-notch too — no issues with plagiarism or formatting. If you're looking for the best assignment writing service, I’d definitely recommend them!"
+122,mq0lfwb,1k1jlq1,1,"I recently tried Leoessays for an upcoming paper, and honestly, everything went great! I was a little skeptical at first (I mean, it’s always hit or miss when trying a new paper writing service online), but I was pleasantly surprised. The turnaround time was quick, and I was able to get my paper on time without any issues."
+123,mr8it1y,1k1jlq1,1,"I haven’t tried Leoessays myself, but I totally get wanting to do some research before trusting a writing essay service. I’ve had some mixed experiences in the past, so I usually check reviews and get a feel for the site first."
+124,mr8j268,1k1jlq1,1,"Also, pro tip: If you’re in a pinch and procrastination is real, using a solid college essay writing service is a total lifesaver. No shame in getting that help when the stress is real."
+125,lznpilh,1h323w4,27,"Models are not learning on “never-ending” data. Training still happens offline on specific datasets, with maybe slow and well-controlled iterative updates "
+126,lzs34ba,1h323w4,3,It's called steps. It refers to the number of gradient updates and comes alongside the effective batch size.
+127,lznnd3y,1h323w4,3,"To be honest, epochs were always useless. I don't know why libraries were built around epochs. 
+
+The problem is that the number of iterations (back propagations) in an epoch changes depending on dataset size and batch size. 
+
+For example, if you train a model with batch size 100, and the dataset is 100 samples, then 10 epochs is only 10 iterations. If you train ImageNet with 1.3 million samples, 10 epochs is 130k iterations. In the first case, basically nothing will be learned because it hasn't had time to.
+
+The alternative is just use iterations (which I would argue is more fair and makes more sense anyway). Back in the day, before keras and pytorch, we used iterations. Even to this day, I still use iterations (I calculate the number of epochs to train based on epoch=iteration*batch/dataset)."
+128,lzocceu,1h323w4,1,"I'm with you. I am working on a hobby ML framework that operates on streaming iterations instead of epochs. I still have epochs in the calling code above, but it's more of a high level eval decision for a specific dataset than a built in requirement. Ultimately I plan on trying to wire my network to streaming audio/video sources."
+129,l96lf8h,1diu4gh,15,Well I think even writing this out you can see that you probably want to start coding by yourself immediately if you want to have any engineering role.
+130,l9689r7,1diu4gh,26,"I think it is fairly simple, just stop the subscription to chatgpt or gemini, and start writting for yourself.
+
+I think I also had something similar, I prompted for easy stuff and got lazy.."
+131,l96cwnb,1diu4gh,8,You only learn by practice.
+132,l97o18x,1diu4gh,7,"Get these LLMs to generate 10-15min code exercises for you aimed at improving your weaknesses (not just reinforcing your strengths), with increasing difficulty as you progress"
+133,l97vcau,1diu4gh,7,Stop using gpt and start practicing
+134,l99p0l6,1diu4gh,2,"During undergrad, I was trained to not even use an IDE. Just a plain text editor without any of the autocomplete plugins (I used to use Sublime). Yes, you’ll end up consuming more time when you do things manually this way but you’ll learn a lot compared to speeding up everything. The search for an answer in Stack Overflow or some other forums would point you to different answers but each could provide you with something different, something you might need in your other problems someday. Something you can’t get from LLM chats. 
+
+To note, my undergrad years were 2014-2018 then I proceeded with my Master’s on 2018-2021 while working a full-time job. 
+
+There’s a paper a few months back saying that dependence on LLM dulls someone. It’s published in Nature (or sub journal of it) but it’s behind a paywall."
+135,l97d1qz,1diu4gh,2,also grammar.
+136,l9aw0pp,1diu4gh,1,How do you find an intern if you can’t write code?
+137,l9s6az6,1diu4gh,1,"1. No one cares how you wrote the code, as long as it works. Take it slow, practice, read.
+
+2. If you sistematically can’t remember syntax despite practice, you may benefit from a clinical neuropsychogist visit. This could be dyslexia, for example.
+
+You can do this!"
+138,l98ff5r,1diu4gh,1,"No harm in learning to do it yourself. But using LLMs to fast track this stuff is the future, so you’re not really in the wrong"
+139,jocmkeo,14ars0t,3,Can you stop spamming the sub with this crap? One time was enough.
+140,joc1tuj,14ars0t,0,"Ok, but where's the original video?"
+141,jobvmmz,14ars0t,-6,Tutorial Link: [https://www.youtube.com/watch?v=GPop6IFaLQE&t=6s](https://www.youtube.com/watch?v=GPop6IFaLQE&t=6s)
+142,joe90t2,14ars0t,1,Let me guess.. the fake one is both!
+143,iy7kgtw,z7nt9o,29,"Researchers know that, but it does not help in any way to better understand DNN. A bunch of DT is not more explainable than a DNN"
+144,iy7ncq9,z7nt9o,5,"Maybe, a decision tree is an example of a NN? I mean that NN is more generic structure because it may include an arbitrary Neuron design and custom layers design?"
+145,iy7ielr,z7nt9o,10,"Thanks for pointing out the article, it’s going to be useful for a lot of people.
+
+Anyway, when we refer to the “black box” nature of DNNs we don’t mean “we don’t know what’s going on”, but rather “we know exactly what’s going on in theory, but there are so many simple calculations that it’s impossible for a human being to keep track of them”. Just think of a simple ConvNet for MNIST classification like AlexNet: it has ~62M parameters, meaning that all the simple calculations (gradients update and whatnot) are performed A LOT of times in a single backward pass.
+
+Also, DNNs often work with a latent representation, which adds another layer of abstraction for the user: the “reasoning” part happens in a latent space that we don’t know anything about, except some of its properties (and again, if we make the calculations we actually **do know** exactly what it is, it’s just unfeasible to do them).
+
+To address these points, several research projects have focused on network interpretability, that is, finding ways of making sense of NNs’ reasoning process. [Here’s a review](https://arxiv.org/pdf/2012.14261.pdf) written in 2021 regarding this."
+146,iy7fk3v,z7nt9o,4,"[https://www.youtube.com/watch?v=\_okxGdHM5b8](https://www.youtube.com/watch?v=_okxGdHM5b8)
+
+&#x200B;
+
+Discussion of the orignal paper."
+147,iy7xvbr,z7nt9o,3,"Was interested when I first head about this concept.  People seemed to respond with either thinking it was ground shaking, …..or alternatively that it stood to reason that given *enough* splits it would be the case!  Do you think though,  that from a practical usage perspective this doesn’t help much because there are so many decisions…. Article has a lot more than just that though and a nice provocative title."
+148,iy8lyyf,z7nt9o,2,"Any ML classifier or regressor is basically a function approximator.
+
+The function space isn't continuous but rather discrete, discretized by the dataset points. Hence, increasing the size of dataset can help in increasing overall accuracy. This is relatable with Nyquist criterion. Less data and its more likely our approximation is wrong. Given the dimensions of input space and range of each input variable, the dataset size is nothing. E.g. for 224x224 rgb input image, input space has total pow(256, 224x224x3) possible input values, which is unimaginably large number, mapping each to a correct class label (total 1000 classes) is very difficult for any approximator. Hence, one can never get 100% accuracy."
+149,iy8x636,z7nt9o,2,Wonder why if so NNs are so much better on unstructured data while being trickier and in general more useless on structured data compared to tree based classifiers and boosted classifiers.
+150,iy9lq76,z7nt9o,2,"I think that NN is general structure algorithm can learn anything from data depends on problem and it can approximate between data distributions , such automa NN is good example"
+151,iya0x5i,z7nt9o,2,You can just cite the original paper
+152,iya34at,z7nt9o,2,Correlation is not causation.
+153,iyaux7r,z7nt9o,2,"A deep neural network can approximate and function.
+
+A deep recurrent neural network can approximate any algorithm.
+
+The are mathematically proven facts.  Can the same be said about “a bunch of decision trees in hyperspace”?  If so, then I would say “a bunch of decision trees in hyperspace” are pretty darn powerful, as are deep neural networks.  If not, then I would say the author has made a logical error somewhere along the way in his very qualitative reasoning.  Plenty of thought experiments in language with “bulletproof” arguments have led to “contradictions” in the past, only for a subtle logical error to be unveiled when we stop using language and start using mathematics."
+154,l06ea24,1c770nz,13,"Echoing everybody else's advice, take a break. However, I want to give a slightly different reason: You will always feel like you are a little bit behind, and that is okay. In fact, the sooner you teach yourself that feeling a little bit behind all the new stuff coming out is acceptable, and that taking breaks is not only acceptable but also normal and good for you, the more successful you will be at keeping up. Let me explain.
+
+I have been in a PhD focused on AI for 8 years. I am about to finish that PhD. Before that I worked in robotics for 3 years. Before that I did a masters program in robotics. I can tell you that at no point in my journey have I ever felt ""caught up."" For many years this was alarming and constantly unsettling. Like you have described, I felt a pressure that if I wasn't constantly keeping up with new techniques, models, and achievements I would fall so far behind I would never catch up again. What I've learned in the last few years is that you never get fully caught up, but that's okay because no one else does either. Having conversations at conferences like NeurIPS, RSS, ICRA, AAMAS etc, You start to realize that even people responsible for the most impressive achievements in one area have no idea what's going on in other areas. I remember in one conversation at one of these conferences last year, I got to explain to a multi agent learning best paper first author all that was going on with NeRFs, diffusion, Gaussian splatting, and its implications for robot mapping and coordination. It was a illustrative experience of how someone awarded for moving deep learning forward was still ""behind"" on what is changing in deep learning.
+
+Even the best of us don't know everything. The most valuable thing you can do is be proud of what you know at this moment, assure yourself that as long as you keep trying you will keep learning and improving in the future, and that taking breaks for mental health is a critical step in constant learning and improvement. ![gif](emote|free_emotes_pack|grin)"
+155,l05w4j5,1c770nz,10,"Take the break, come back refreshed"
+156,l064881,1c770nz,3,"The important ideas of deep learning aren’t changing every week or two. As long as you persist in the fundamentals (which is what I think gives the competitive advantage in any field), a break will help you to think better and learn more efficiently."
+157,l066vve,1c770nz,2,"You need to take breaks to avoid burnout. Your knowledge won't become obsolete. And after a break you should have more energy, thus you'll be more effective. Remember that learning has to be enjoyable - you can't feel joy when you're tired"
+158,l08pghm,1c770nz,2,"Do something completely different that you've never done before. Something that sounds fun. 
+
+I like hybrid models so that's what I do when I get bored. Yours could be completely random. It should be a little below your skill level if you still want to be a little challenged with some parts but have it be easy+ level, or a little past your capabilities if you learn better that way and have the emotional energy. That way you not only are learning but it's fun and you can find clever ways to use what you know on stuff you already know. 
+
+Also, dumb ways to use the knowledge work almost as well as the clever ways. You can save a little mental energy by not requiring cleverness, when cleverness just won't do.  
+
+Just require yourself to at least vaguely think about  how you can use the new knowledge of programming, theory, or task-adjacent knowledge to be useful by solving any problems you have or might have later.
+
+2000 lines later I can go back to the other stuff and muscle through the boring parts of learning necessary but not cool stuff. Might even use something I learned to make the boring thing easier, better, and occasionally to make the boring thing wicked cool."
+159,l09gs5f,1c770nz,2,"I think some breaking points might happen in at least 6 months or more. The rest is deviation, new applying and stuffs like that. Mamba does not release in 1-2 years, but strong continuously developing in 3 years, the rest will be same as well. Take your break."
+160,l08r2r8,1c770nz,1,事实上你完全没必要为短暂的休息感到焦虑，在中国有一句俗语：磨刀不误砍柴工。短暂的休息是必要的，也是为了更好地开始行动。上帝也无法阻止新事物随时发生，因为这才是生活的意义。
+161,kozpm2t,1aj8fqg,13,"What it means is, feature engineering is more relevant in traditional ML while it isn’t in DL. This is because your NN is going to learn more complex features than anything you can hand craft. 
+
+That said feature engineering is a broad term and a lot of things used for preprocessing data in deep learning can be referred to as feature engineering."
+162,kozpzur,1aj8fqg,2,"It's all covered here:
+
+[https://udlbook.github.io/udlbook/](https://udlbook.github.io/udlbook/)
+
+In some cases you need labels: that's called supervised learning. In others you don't. That's unsupervised learning."
+163,kozk0r7,1aj8fqg,-5,Look into supervised and unsupervised learning
+164,koznunj,1aj8fqg,0,"I think you need to first differentiate between the dataset that's used for training, and the inputs used to tweak the process during training--aka supervision. All AI training/deep learning/machine learning requires a large amount of data to train on. However, advanced AI training methods like deep learning allow for decreased inputs from human programmers during the training process--ie, the process goes from being supervised to ""unsupervised"". When you talk about no human input during deep learning that's probably what you meant."
+165,kozikkf,1aj8fqg,1,"Indeed you need to train a model before you can use it, and you train it with tons of data. Oncr you have a model you can use it to solve simmilar tasks as the ones you used to train it, so there is no midel without data in deep learning. Also you need to create the model in the way you hope it works better"
+166,ky504c1,1bwbsgk,37,"I used to use Matlab during uni days but not anymore. The future will not need an overpriced software when better free alternative exists. Learn to setup your environment, it'll take you as long as it takes you but you'll be rewarded afterwards."
+167,ky55k1m,1bwbsgk,14,We don't hate you. But your language hates you. And you keep going back for more abuse..
+168,ky52lci,1bwbsgk,21,Cringe
+169,ky50f6m,1bwbsgk,6,Let it go man. Join the light side before it is too late
+170,ky5utf2,1bwbsgk,7,I was forced to use matlab for years and it made me dumber
+171,ky61ayw,1bwbsgk,6,Yes
+172,ky68r54,1bwbsgk,5,yes
+173,ky6ewtc,1bwbsgk,6,"You resist using the most popular, well supported tool because you dislike the interface.
+
+Man-baby seems apt."
+174,ky53x95,1bwbsgk,4,Just go immediately use pytorch
+175,ky59vkk,1bwbsgk,6,"oooof. yea, I’d have a hard time working with you."
+176,ky73tz5,1bwbsgk,3,"I was forced to use matlab in one of my grad school courses. I loathed every picosecond of it. Weirdly enough, I’d rather use octave against matlab, which is kinda like or basically just the open source version of matlab. lol
+
+Might also be because our entire class hated our professor in that subject."
+177,ky7pv64,1bwbsgk,2,"Try Visual Studio Code and its python plugin.  Or use pycharm.  I also don't like that it doesn't let you easily explore and manipulate workspace variables, but I recently made the jump after 25 years of Matlab use in academic and professional robotics work.  
+
+AI has helped with the transition too.  I can easily just ask claude to tell me about how I can achieve the same thing from some matlab code in python.  
+
+I used to always just code high performance stuff in C++ and then do high level testing of algorithms in Matlab.  I still do a bunch of that, but I needed to learn Python to teach it as a class to students because I didn't want to have to purchase a site license for Matlab any more when I found myself only using base matlab and no real toolboxes.
+
+As a teacher, I have enjoyed seeing Github Copilot's predictive code do a really neat job at auto-completing whole functions in python.  As I understand it, Matlab is sliding further down the IEEE list (though it is still around the #20 spot).  Probably getting to be time to move on."
+178,ky8bkzy,1bwbsgk,2,Yes
+179,ky8mu12,1bwbsgk,2,"Matlab had a big head start in the early 2010s with deep learning. Alexnet itself was created in matlab.
+
+Mathworks was yawning rather than developing their libraries over the last decade or so."
+180,ky8slb8,1bwbsgk,3,"Python coders don't even know you exist man. Just take it easy learning the tools and syntax, and you'll be fine."
+181,kya190n,1bwbsgk,2,"Yes, and fuck em'. We niche society of reddit are freaks. At the end of the day, we're given a job, and it's solved via programming. Noone outside reddit cares how it's programmed."
+182,ky5ov36,1bwbsgk,3,Edgy
+183,ky5ycbe,1bwbsgk,0,"You are not alone that Python is not necessarily the optimal. Andrew Ng posted this [https://www.deeplearning.ai/the-batch/issue-238/](https://www.deeplearning.ai/the-batch/issue-238/)
+
+""I think the complexity of Python package management holds down AI application development more than is widely appreciated. AI faces multiple bottlenecks — we need more GPUs, better algorithms, cleaner data in large quantities. But when I look at the day-to-day work of application builders, there’s one additional bottleneck that I think is underappreciated: The time spent wrestling with version management is an inefficiency I hope we can reduce. ""
+
+Another bottleneck is hardware integration, because the code must be compact and efficient to reduce energy consumption yet must operate in real time, and requires extensive testing before real-world deployment. MATLAB have solid track record in the industry for that. 
+
+Rather than MATLAB vs. Python, the better question is how we can use them together. MathWorks is building the bridge between the two worlds. 
+
+https://www.mathworks.com/help/deeplearning/networks-from-external-platforms.html"
+184,fzrw77i,i0m1e6,2,">\- In its current state, DL lacks causality, commonsense, intuitive physics, goal/intent understanding
+
+What makes you think that's necessary?
+
+>\- Roads and infrastructure need to undergo changes before SDCs can be deployed with reliability
+
+Why? Humans can do it without any changes, so we can say for sure the task is solvable without any hardware exterior to the car.
+
+>\- Legal hurdles need to be overcome
+
+That's not a technical issue.
+
+>\- Human drivers make mistakes too, but our mistakes are much more predictable than SDCs (e.g., human drivers don't drive into parked firetrucks and overturned cars)
+
+Are they? The mistakes may be different, and of course as humans, we tend to forgive human mistakes easier. That doesn't mean AI mistakes will be more frequent or worse.
+
+&#x200B;
+
+>This suggests further training its deep learning algorithms with the data it is collecting from hundreds of thousands of cars will be enough to bridge the gap to L5 SDCs by the end of 2020.
+
+Did he really say that? I don't think he claimed it's just more training. Nothing stops Tesla to deploy any software they want, nothing limits the hardware to deep learning only."
+185,fzsbi9i,i0m1e6,2,"Common sense, intuitive physics, etc are all teachable imo"
+186,fzr3jb1,i0m1e6,1,[removed]
+187,fztlz4o,i0m1e6,1,“Those who say it’s impossible should get out of the way of those who are doing it”
+188,mjl24cj,1jj7tor,19,You can rent an A6000 for like $0.80 / hour on lambda labs.
+189,mjleyu9,1jj7tor,5,"Around six months ago one of the macro guy (we are a HF) asked how to gauge the top is in for tech stocks on AI mania. One of our sell side guy nonchalantly said when you have folks advertising to get rid of their h100 inventory around one dollar an hour. 
+
+We are getting there."
+190,mjn0jvr,1jj7tor,1,Very expensive
+191,g38qytb,iis7vp,2,">hardly distinguishable from the original sound
+
+By a deaf person? 
+
+Is this just an excuse to promote your low quality youtube channel?"
+192,g38y7b2,iis7vp,1,Is this a video on how to run Python on colab? Probably should change the title.
+193,mkn8f7n,1jnwjwf,18,"All of those are just tools, you learn them on the go when you need them. Doing ""a deep dive"" into pandas is a waste of time, partly because you'll forget all of it in no time, partly because tools are changing all the time. Familiarize yourself with what they can do on a high level and move on."
+194,mknaj1w,1jnwjwf,4,"If you want to do a PhD you should be reading and implementing papers, not reading software documentation."
+195,mknz35h,1jnwjwf,3,U don't need to know the libraries to do a phd. Just read papers
+196,mkxqmzi,1jnwjwf,2,"Personally I think bechelor degree is enough. Getting a master degree or PHD is not necessary if you spend enough time doing research or just playing around with models and reading papers in ML area. 
+
+But PHD with publications is a strong point for job hunting. Espeically if you want to do research for a living.  
+  
+Moreover, production experience matters. I would say try to get some intern opportunities in those big tech companies in ML field, you will learn and grow very fast. Once you done that, I bet you will have a clearer picture to whether going to grad school or not."
+197,mknm9j0,1jnwjwf,1,"Never is enought, do what ever You want learn everything but hace one goal and that hola learn more than others"
+198,mkq7in1,1jnwjwf,1,"Learn as you go. No human ever sat down to read the documentation(s) and learn stuff. That's madness. Learn what you need and keep moving. Tackle bigger and more ambitious projects than the last one, learn more advanced tools and implementations, and repeat. Read research papers as others in this thread have said, and keep moving."
+199,lrlogik,1g201vh,3,Why is it here and not in a stats subreddit?
+200,joa7zfy,14aevdi,5,"Check this out:
+
+[https://lambdalabs.com/gpu-benchmarks](https://lambdalabs.com/gpu-benchmarks)
+
+[https://www.aime.info/blog/en/deep-learning-gpu-benchmarks-2021/](https://www.aime.info/blog/en/deep-learning-gpu-benchmarks-2021/)
+
+google search ""GPU benchmark machine learning"" 
+
+&#x200B;
+
+They  benchmark various GPUs and their performance on machine learning models."
+201,joabpkb,14aevdi,4,"The math says colab almost always just for doing small training. But the second you get into doing anything RL and go for weeks on end your better off with a desktop.
+
+My 2 cents."
+202,joakv9t,14aevdi,3,"Are you new to DL and deciding if you want to do it more seriously? If so I would 100% do colab. The GPUs it provides are pretty damn nice when you pay for pro, and it’s very reasonable for learning. Bias plug I wrote a [book](https://www.amazon.com/Inside-Deep-Learning-Algorithms-Models/dp/1617298638/ref=nodl_?dplnkId=80dd168e-005b-4d95-bfef-5b2d5be46ee9) teaching DL using only colab for compute, and tricks from fast.ai can extend the utility of just a colab session even farther. Once you feel like you really need to train longer, then it would make more sense to upgrade to a dedicated GPU that you own. It would also give you time to save up for one with more memory, as model size has been consistently increasing and make your life a lot easier."
+203,jobmij8,14aevdi,2,"Though 3080 mobile GPU has 16gb of VRAM, desktop is more preferable if you need to train for longer period of time. You can also add additional GPU in future, which is not an option for laptop."
+204,jobtpgn,14aevdi,2,"I’ve worked in this exact situation for a while (laptop with 16GB 3080), in my view it’s:
+
+- great for deep code, if you write libraries, have to debug,.. colab is just shite for this
+
+- great for proof of concepts or small trainings (PEFL, fine tuning)
+
+- a no go if you want to train at scale, but the same goes for colab, in that case you prep a job on your machine then send to the cloud
+
+Colab would be best for a lot of experiments where you use existing code/checkpoints, you can’t beat the fire and forget aspect here.
+
+I’ve a ASUS Strix, works ok under Linux, no cooling issues whatsoever. If you go this route I would recommend a AMD CPU for cooling reasons, the GPU will produce enough heat by itself."
+205,joi3u9t,14aevdi,2,Where can you get a 3080 16gb laptop for $600?
+206,fruyd3i,gqsxzj,3,HTF does it have anything to do with deep learning?
+207,frzthh3,gqsxzj,1,bruh this has nothing to do with deep learning. promote your shitty vids somewhere else
+208,m9mzkx7,1ic27bm,21,But twitterbros told me agi is here already
+209,m9oqtaa,1ic27bm,3,Those easy tasks are for human 😆
+210,m9re016,1ic27bm,2,Turn on the R1 thinking model
+211,m9ol79d,1ic27bm,1,"AI, like all other technology is or will be used purely to feed the rich at the expense of the poor"
+212,m9rewtu,1ic27bm,1,"Problems like this will go away once we ""solve"" tokenization"
+213,m9t67vk,1ic27bm,1,"Honestly I have seen even worse from deep seek.
+Wake me up when it can output content better than gemma2."
+214,m9vo77a,1ic27bm,1,You have to click on the R1 button on the bottom!
+215,m9nljze,1ic27bm,1,You can deal with such problem with regular expressions. The transformer architecture thought as a regular expression extractor is just not the right way to think of an LLM. It's an interesting problem though!
+216,m9nan6e,1ic27bm,0,Why would it get it wrong and then get it right but in the wrong way
+217,m9n5old,1ic27bm,-5,"I have a friend, 2x PhD +MD,  absolutely clueless about calculating percentages."
+218,m9n1kc2,1ic27bm,-8,This is answered correctly now. All naysayers and dinosaurs who doubt AI capabilities will go extinct soon.
+219,kahrc5s,18240yl,17,I can’t believe you wrote all this on a rumor. It’s probably not even true. I don’t even believe there’s a Q*.
+220,kajz8cm,18240yl,6,Please stop
+221,kajdeng,18240yl,7,"Q* just means optimal policy in RL…
+
+It’s not a new algorithm. It’s a journalist for Reuters not understand basic Reinforcement Learning."
+222,kambbzf,18240yl,1,So…wtf is this bullshit? You stole it from LinkedIn?
+223,gt1bnkk,mhwlvb,62,"X and y are lists. Lists are very inefficient for various operations, but are nice when you don’t know how big the final thing will be. This code makes a list of all your stuff. Once everything is loaded, it puts them into np arrays. Initially making the array is expensive, but then any future operations on it can be done quickly."
+224,gt1bday,mhwlvb,6,"My best guess is that you don't know how many images are in the directory, so you just use a list instead of preallocating an np.array. It's a property of lists: they are [mutable and dynamic](https://realpython.com/lessons/lists-mutable-dynamic/)."
+225,gt1bjxb,mhwlvb,1,"Each directory name is a label(if it doesn't start with '.', in Unix systems a  file which start with '.' is a hidden file).
+
+For X you load an image tensor/matrix from directory/path name. As the size is not know you have to dynamically load the images/lables into array and then convert them into Bumpy array for simplicity.
+
+
+I hope I am not missing any point!"
+226,gt2hm0r,mhwlvb,1,It’s quite a common pattern as appending to python lists is extremely fast compared to appending to a numpy array when you don’t pre alloccate the np array.
+227,gt2m39o,mhwlvb,1,Why is this on r/deep learning? Maybe learn python first?
+228,ftnolbl,h0jzat,2,"I think this is already done by someone else few months back. He just copied it I guess , nowadays some people are copying others work and getting credits ! :/"
+229,fuqggmq,h0jzat,1,This looks pretty similar to [this](https://blog.scottlogic.com/2020/01/03/webassembly-sudoku-solver.html) blog post from January. Pretty cool nonetheless!
+230,ftmlsuo,h0jzat,1,This is neat.  Is the AI solving the actual puzzle?  Or is the AI used to read the puzzle and display the answers while another algorithm is used to solve it?
+231,mpdanu4,1k9cn3f,16,This really is a terrible sub with a lot of low effort posts. Unsubscribing.
+232,mpdpez9,1k9cn3f,12,"Don't do drugs, kid."
+233,mpmyc76,1k9cn3f,2,[deleted]
+234,mpx4hu4,1k9cn3f,1,I read all that and got to “from my ChatGPT” and the entanglement for inter dimensional communication? That’s just using the most advanced known form of potential communication. 
+235,mpzdffm,1k9cn3f,1,Jesus he’s gone off too deep
+236,ln82pnk,1fh8cdf,26,"Poor guys are trying their best to climb out of local minima
+
+Try other optimization methods and parameters"
+237,ln80yi6,1fh8cdf,15,The optimization algorithm is most probably getting stuck in some low depth local minima and is not able to optimize further. Trying different optimization algorithms(RMSprop etc.) or changing weight initialization of the neural net might help. (it worked for me once :P... i aint no dl scientist)
+238,ln88w4b,1fh8cdf,8,Your stochasticism is not stochastic enough…
+239,ln89eap,1fh8cdf,4,Do you shuffle your dataset?
+240,ln8buhp,1fh8cdf,3,"Everyone else has made good points, but I did experience a similar thing to you, where I forgot to call optim.zero\_grad(), and that basically meant the loss pinged around sinusoidally like that."
+241,ln8ajrt,1fh8cdf,3,[deleted]
+242,ln8clpo,1fh8cdf,2,"Seems like training became unstable, so lower the learning rate."
+243,ln89eer,1fh8cdf,1,Are you shuffling your dataset ?
+244,ln8kr3g,1fh8cdf,1,Unbalanced dataset?
+245,lknfyn6,1f4pghi,9,Yes
+246,lkoynhc,1f4pghi,7,Yes
+247,lkoviab,1f4pghi,4,It's just fancy autocomplete.
+248,lkon2no,1f4pghi,6,Is a hammer weak in sewing ? Should we abandon hammers ? Are you afraid yet ? Are we getting more clicks ?
+249,lkpqy3r,1f4pghi,2,"Do you even know what LLMs are? They are autocomplete on steroids. 
+
+No they can't reason, they don't generalize well in out of domain tasks, at best they can mimick reasoning capacity which is akin to memorizing solution to problems."
+250,lksr2c8,1f4pghi,1,"As for why it is bad at planning - I like to look at it from the dual process theory which distinguishes our conscious into System 1 and System 2. In LLM there is only a reactive neural network, similar to the System 1, that completes the next token without more deliberate processing. We also cannot plan well without System 2. This perhaps explains why the Google efforts in combining MCTS with LLM is promising, as it is similar to adding a handcrafted System 2 (MCTS) on top of the System 1 (the pretrained LLM)."
+251,lkphvst,1f4pghi,0,"I was expecting some thoughtful comments like - \`Why question\`, \`related research\` and \`first principle thinking\`. I already know it(LLM) is not good in planning as I have tested and demonstrated in the article. Does any one has similar experience or conducted experiment?"
+252,l7pz84e,1dbbmm3,5,What exactly isn’t working. Could you explain what your trying to do
+253,l7q2em2,1dbbmm3,5,There is a callback that might help you: https://fastai1.fast.ai/callbacks.tracker.html#SaveModelCallback
+254,l7q3t68,1dbbmm3,2,"I think there are several issues in the code. I suppose you are using fast.ai and want to save a model checkpoint every training epoch. A better way to achieve that is to use the SaveModelCallback of fast.ai.
+
+In the second cell, your learning rate is 2e-2 in contrast to 2e-3 in the above cell. As 2e-2 is quite high this could lead to your model diverging. It could also be a problem with your data as one epoch takes 0 seconds, but it is impossible to answer with the code you provided.
+
+Additionally, the code is not equivalent. The one\_cycle method uses a learning rate scheduler. It increases and decreases your learning rate once over the course of the number of epochs you provide. In the first cell, you have 10 epochs; in the second, you have 10 x 1 epoch, which therefore increases/decreases the learning rate 10 times."
+255,l7qae9y,1dbbmm3,1,"I'm not familiar with what learn does, or what you're trying to save each step could you explain more?"
+256,l7qtffi,1dbbmm3,1,You should have the format f’{model_path}_1epoch…’  You are currently saving to whatever the directory that the notebook is running in
+257,l7r7f65,1dbbmm3,1,"What are you doing exactly? Not just in this pic, what is your task and how are you approaching it. What methods are you using."
+258,l7rfbjb,1dbbmm3,1,It's hard to pinpoint the issue without seeing the actual code. Maybe try debugging it step by step to identify where it's going wrong?
+259,l2b5sf8,1ciq5vd,21,">Is it possible to make a deep neural network for trading?
+
+In theory, sure. In practice, no.
+
+>Basically i want to know the roadmap or any libraries which are specific for this purpose
+
+The roadmap is to learn deep learning to a pretty serious degree before even thinking about trading. Alternatively, you could focus on learning trading then pick up the deep learning later. But either way, you need to focus on one thing before learning the other. Deep learning is hard. Trading is hard. And trying to learn them both is just going to be a waste of time.
+
+I've been there, and I *wish* someone had pointed me in this direction when I was getting started. Go learn about *quantitative finance* to appreciate what ""real"" trading looks like. Like, go pick up a good book on quant finance and actually study it. You should be super familiar with concepts like portfolio optimization and mean-reversion strategies before you even think about performing any data science.
+
+Then go learn data science. That is, learn stats, probability, ""classical"" ML techniques, *then* deep learning. Once you have that down, go learn reinforcement learning. The goal is to understand how to apply RL to portfolio optimization using the framework of quant finance.
+
+Then, after all of that, you'll realize that the only way to make money doing this kind of stuff would be to beat hedge funds with billions of dollars worth of resources and teams of people with PhDs in these areas who are doing the exact same thing as you in a zero sum game. Then you can finally focus on actually making money with these skills."
+260,l2ava6t,1ciq5vd,9, r/algotrading
+261,l2blask,1ciq5vd,4,"yes, certainly, built by bunch of talented quants in hft like HRT , Jane Street, 5R etc.
+
+As a beginner, you should learn the basics instead of going into trading for AI clout/money. There is no simple model to guarantee 100% consistently profitable. The quant firms spend millions to hire phds/medalist for reasons. Focus on your fundamentals  before asking how to apply deep learning in trading."
+262,l2bl8bh,1ciq5vd,3,"I think there are lots of books on this topic as well as quant, but typically optimal trading strategy for most folks is index funds. 
+
+That said, http://numer.ai is a great place to test your might with algorithms to predict the market."
+263,l2bwunq,1ciq5vd,3,Yes
+264,l2cjoys,1ciq5vd,1,You can find some repositories in GitHub and also in other places that have done this.
+265,l2combt,1ciq5vd,1,"Yeah, but you have to be extremely good. The people so good to be able to do this work in teams at major quant firms."
+266,l2bfzlo,1ciq5vd,1,"Deep learning is not the best for stocks, it will learn way too much noise and overfit, even if you try and make it underfit.  There are other better models for stocks.  What time horizons are you looking at?  Nanoseconds, absolutely will work.  Can you trade that fast, no.  Days, absolutely not.  What x variables are you expecting to use.  Trade data? Forget it, you will have to learn a ton of things no one will tell you.  If you have some theory or prop data, maybe.  This is an almost impossible challenge."
+267,ml8ntdp,1jqoxn0,3,RemindMe! -2 years
+268,mdbj4fj,1irvgh5,2,"So I understand how revolutionary AI can be in very specific contexts. Things like protean folding is an incredible advancement in science and medicine and where we are now with this technology would not have been possible without AI. However, as an IT professional tasked with introducing AI to my organization, I’m failing to see how AI can revolutionize general business practices. That bothers me because I want to get it… but I just don’t right now and I’m hoping someone here can help me understand.
+
+Take this video by IBM put out a few days ago – it’s for sales but I hear the same sorts of things mentioned in many other pro AI materials for many different kinds of businesses. I want to break down how IBM pitches AI can “revolutionize sales automation” with a comment for why I don’t think this is particularly revolutionary.
+
+1. Email Generation – IBM claims this could reduce the process from an hour to a few minutes by using AI to generate the body of an email so you only have to review and personalize.
+   * Most of the emails my organization sends take only a few minutes to write anyway. Those that take longer tend to be about significant changes, requests, or upcoming events. Most of this time is spent on reviewing and making small changes – something IBM claims you should be doing yourself anyway. I don’t see how AI revolutionizes this process.
+2. Summarization – IBM claims  AI can summarize, for example, an hour long meeting into a simple document.
+   * You should already be summarizing the content of all meetings (past or upcoming) or other internally generated documents, and you can do this while you write. Staff should always be seeking to be able to summarize their work to get a better grasp on that work and to be able to explain it more simply. Having AI do this seems like too little too late. For external documents, you should be able to skim and summarize yourself if you don’t have time to review the whole document. In my experience, reading an AI summary seems to take just as much if not more time, since you have to verify info, than simply skimming and summarizing a document yourself.
+3. Knowledge Search – The claim is that AI can help empower your search of your own internal documents.
+   * I’ve been testing this with Copilot and results are… pretty awful to be honest. Or rather, it’s very hit or miss, requiring an extensive review that seems to defeat the purpose. Web search also doesn’t appear to be super revolutionary – a normal web search using DuckDuckGo often meets or exceeds the quality of an AI web empowered search in my experience.
+4. Content Generation – RFP, Script, Grant Application, Resume, Code, etc. AI is supposed to be able to make generating content much faster and more efficient.
+   * In my personal experience, I don’t see it. If I need to review an entire RFP and double check the work of AI with various people in my organization, how is AI saving me any time? If I need to review my script and make sure its in compliance with my organizations standards, how is AI improving my work?
+   * The only thing I see here is that AI can significantly lower the barrier to entry. For example, I used to code, I generally know how, but I couldn’t code a snake game to save my life. However, I could ask AI to do it, test it, and then review the code to understand how it works.
+
+To be clear, I want to believe the hype, I want AI to be revolutionary for the ordinary white collar worker, but I just don’t get it right now. What am I missing?"
+269,lrkgpcs,1g1szwo,0,"Excellence is in the details. 
+
+Start with calculus, and meticulously work through the mathematics of DL, then do the same for statistics. Then get into projects. You’ll be amazed at how your intuition develops from a beginners and soon you’ll be an expert, before you write a line of code."
+270,ljp9lv7,1f050a2,19,I wouldn't trust a llm for specifics like this.
+271,ljq2s3e,1f050a2,4,"that sounds wrong
+
+can you provide further context from the book?
+afaik, mlps were done in 1980s, way after rosenblatt.
+and they are not the same as a single layer perceptron ( trained with perceptron learning rule) not gradient descent....
+
+so, imo its a typo...."
+272,ljq4bil,1f050a2,3,Try this prompt with Perplexity. It’ll give you sources
+273,ljr4ekt,1f050a2,2,[from 4o](https://chatgpt.com/share/2ef9619d-2850-44a2-ba5b-4b8a2ec21d0b)
+274,ljr1e3i,1f050a2,2,why the fuck you ask something like this to a parrot like ChatGPT?
+275,l7xxoob,1dcgnm3,6,Whats the difference between this and the current subreddits?
+276,l82619o,1dcgnm3,1,"Hey there!
+
+I'm also interested in AI and I'm always looking to connect with others who share my passion. I'll definitely check out your community and see if it's a good fit for me.
+
+Thanks for creating a space where people can come together and talk about AI in all its forms!"
+277,l7yhz1u,1dcgnm3,0,[deleted]
+278,l7yxczk,1dcgnm3,0,[deleted]
+279,ka4xjsn,180cqkp,1,Sorry for the joke ![gif](emote|free_emotes_pack|give_upvote)
+280,jxishp9,15ztolg,0,"🚀 Exciting Progress on Our Video Analytics App! 🚀  
+  
+  
+  
+We're on a mission to enhance public safety, and our real-time gun detection model is a testament to that. While we've made significant strides, we acknowledge there are still a few false positives. But rest assured, as the model continues its training journey, we're optimistic about substantial improvements ahead.  
+  
+  
+  
+🌟 Seeking Funding: We're now at a pivotal stage, ready to transition our model into a feasible application. To achieve this, we're actively seeking funding partners who share our vision for a safer environment.  
+  
+  
+  
+📩 Interested in funding or learning more? Reach out to me directly at pavankunchalaofficial@gmail.com. Let's make a difference together!"
+281,jxkdm8n,15ztolg,1,Nice work 😀
+282,k3ztiw1,15ztolg,1,"This is a good idea, early detection in schools and public buildings, etc"
+283,jnu44ip,146uurk,2,"Try it out - pytorch has some pretty simple tutorials that are good for starting out. As for a more rigorous learning path, there's a few textbooks (such as [this one](https://www.deeplearningbook.org) by goodfellow, bengio, and Courville), but DL is changing so fast that they can get 'dated' pretty quick. Good advice given to me, DL is evolving so rapidly that you have to get used to feeling like you don't really know what's going on, accept that, and learn all new stuff. Another thing, I would start in one area of application (Computer vision or NLP are biggest 2) before branching out just to have some common ground between projects. Best of luck!"
+284,jns795s,146uurk,2,"That’s one of the cool parts about DL models, you don’t have to engineer the features anymore by hand."
+285,gm8no5v,ldzppx,7,"First you need to learn coding, then learn the necessary math, which won’t be easy and then you can slowly start with deep learning."
+286,gm8p050,ldzppx,2,Pick one course either from youtube or paid and follow it to the end.
+287,gm952d4,ldzppx,2,"I recommend learning Python if you are new to programming.  If you're interested then please have a look at ""Python Crash Course"" by Eric Matthes from No Starch Press.  
+
+[https://nostarch.com/pythoncrashcourse2e](https://nostarch.com/pythoncrashcourse2e)
+
+The author's web site has plenty of helpful cheat sheets he has created.  I have downloaded them all.  
+
+[https://ehmatthes.github.io/pcc\_2e/cheat\_sheets/cheat\_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)
+
+Python is an excellent programming language even for experienced developers like myself.
+
+Good luck! :)"
+288,gm8n9fp,ldzppx,4,"Choose your destiny: academia or corporate. In both cases you'll need some soft-skills, such as ass-kissing and self-marketing. Start with those.
+
+Just being realistic here. No one really needs your ""skills"" or ""math knowledge"", there are hundreds like yourself fighting for the spot. Some way better than you. So, whoever sells and networks best wins and gets the honor to run the nets."
+289,gm8o6ci,ldzppx,1,"Start with learning python.  
+Watch this [https://www.youtube.com/watch?v=IsXXlYVBt1M](https://www.youtube.com/watch?v=IsXXlYVBt1M)  
+
+
+Learn the python package pandas, and data cleaning  
+[https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)  
+[https://courses.cs.ut.ee/MTAT.03.227/2018\_spring/uploads/Main/python\_tutorial](https://courses.cs.ut.ee/MTAT.03.227/2018_spring/uploads/Main/python_tutorial)
+
+Im in a hurry, but a big part of learning this comes from googleing and reading."
+290,gm95ado,ldzppx,1,Math. You will hate it but in couple years it will save your day.
+291,gj6i23l,kwq14y,8,"No, it absolutely cannot. Article is rubbish.
+
+The claim we can train or perform inference on a tiny model on an energy efficient cpu for cheaper is valid. ARM, Raspberry pi, M1, whatever.
+
+Claiming you can do that cheaper AND FASTER (per the title) is absolutely not valid."
+292,gj6nijw,kwq14y,2,"The title should be can the M1 be more energy efficient with very small models compared to the V100. However, that title won't make sense as the V100 is not supposed to be energy efficient at all..
+
+Hence we get a twisted title."
+293,gjbtxif,kwq14y,1,Total scan
+294,g1cdskr,i8yxns,2,Why did you take two pictures of the same guy to demonstrate the effect though?
+295,g1cpacj,i8yxns,1,I try to make a deepfake „from scratch“ using pytorch. It kinda works but that shit is blurry as hell. Maybe someone can help me out with finding the right architecture?
+296,g0w8a9k,i6h67f,1,[deleted]
+297,fy1b3h2,hr1twl,0,"I love it so I created my README profile as per my professional way👨‍💻😉
+
+Checkout:- [https://github.com/balavenkatesh3322](https://github.com/balavenkatesh3322)"
+298,eausvmy,a21ny5,2,"""Amazon is slowly on the way to enslave humanity""... common... are you for real?"
+299,lioxabk,1ev1tgf,10,[removed]
+300,liogd3p,1ev1tgf,16,Try to automatize your job by using already trained model like YOLO. There are many good tutorials which can get you started
+301,liooaiz,1ev1tgf,7,"Have you considered outsourcing your job in Amazon mechanical turk? Then use metrics for annotator agreement to determine what images to verify yourself. The statistics here are very relevant to ML, and you will save yourself time and mental health."
+302,liqvj7b,1ev1tgf,2,"Reading your job I kinda glad with my job now. I graduated master's degree in control system with using DRL end to end as a vehicle control for my thesis. In my country sadly there are no hire for that specific expertise and I kinda fumbled my early career by going straight to master degree from bachelor instead of work first because now I'm stuck in a ""too smart to work in entry level but too inexperienced to work professionally"" kind of situation. I tried to find any R&D for my expertise but to no avail for now and I settled by working at my thesis advisor's startup (technically it's like a branch startup but idk how to describe it well in english) that purely worked in LLM for medical administrator.
+
+If you want to chsnge job I can link you to my boss since we kinda lacked manpower and I am just like you, 0 knowledge about LLM and anything smelled NLP, code like ass since software engineer isn't my background and I often worked alone heck I don't even know how to use Github properly. My only AI engineer coworker is a bachelor graduate and we basically working 2 different projects. Well thankfully I know how to read journal and have a basic knowledge of Python so coding isn't a big concern and I'm still capable to learn anything new (hopefully it didn't remove my years of control theory)
+
+I don't advice you to stay since you felt like the job is a dead end but maybe try to ask your boss what is their work plan ahead, how long this annotation phase is going to be and what to do after it. If it's promising then push through because afaik annotation is like 50% or more of AI ML pipeline especially if you don't have an available dataset"
+303,lioo17t,1ev1tgf,1,You need to create a presentation to your ceo/boss/lead that you want to bring in an advisory expert for a week/whatever. You need to figure out how much it's going to cost and justify it to your boss.
+304,lipnh5l,1ev1tgf,1,but… this is most of ai ml in the real world so… and some say the most important job so…
+305,liqvxwe,1ev1tgf,1,"Unfortunately, you have to put the self learner hat on.  Only large companies with decent hierarchical structure can afford to have enough people to have somebody to train you.  Your experience is in reverse.  Startups need people that can do whatever needs to be done no matter how menial.
+
+Good news is, you should be networking with people at other startups to help gain knowledge on the next steps in your career.  Your career is not fucked.  2 years experience?  What are you, maybe 28?
+
+You might find out you're being too obsessed about ML when there's a better path.  I'd keep your eyes and ears open on opportunities.  Don't obsess over one tool or one path.  None of it is certain no matter how much you think you should have control."
+306,liqyzxx,1ev1tgf,1,"You can repeat this sequence infinitely, until you have labelled everything (relevant), I have used it several times successfully:
+
+1. label a dataset
+2. train on it
+3. evaluate on unseen data
+4. isolate the samples with the most confidence (close to 0.0 and 1.0)
+5. sample the same amount of data from step 1; you can try to select the data most different from labeled set, by some metrics
+6. return to step 1"
+307,lj0t3bc,1ev1tgf,1,">In last 8 months i only annotate thousands of images and created different object detection models
+
+And you didn't write an active learning pipeline?"
+308,liomoz2,1ev1tgf,-1,"What are your thoughts about getting an actual degree in software engineering? Since you already have a bachelor degree in Engineering, you should be able to enroll in a SWE or CS Master's program, and try to get in a real MLE internship while in school.
+
+There is also the bootcamp option, it is faster but it is less legit"
+309,fiti4ue,f9rjxj,-1,Can i see your code to learn more
+310,jhz4n5h,13139ep,6,"Dude what is the deal with these ""win bitcoin"" spam videos?  Must be a dead sub..  This is obviously an ad bot, there is no followup in the comments about the app let alone source code so wtf?.."
+311,jiljdft,13139ep,1,http://ainsider.crd.co/
+312,jhynxsc,13139ep,1,What's the application?
+313,ji1yu6o,13139ep,1,![gif](emote|free_emotes_pack|poop)
+314,jnvtznc,147kh35,22,Why is it always tiktoks with these?
+315,jnvrhz0,147kh35,-3,Tutorial Link: https://youtu.be/GPop6IFaLQE
+316,jy0qopg,147kh35,1,Bro just changed the meaning of deep learning
+317,g9wf57q,jh7yzd,0,Toonify yourself! : https://gumroad.com/a/391640179
+318,mapvc1b,1iglwba,12,Looks like r/singularity is leaking again
+319,maq5wsi,1iglwba,6,"cute story, ok, back to real AI work"
+320,maqcj8a,1iglwba,2,Nice fan fiction bro
+321,kqzlmyx,1ats6qb,16,"This post feels like an x-post from r/datascience - I don't see the link to deep learning specifically. If you are looking for deep learning roles then your odds are not good without a CS degree. Your background seems more suited to data science roles close to the business, which usually do not involve deep learning. If you want to break into DL roles, I recommend aiming for a company using DL, but apply for business analyst or DS roles. Once you're in you can use the expertise and the company and attempt to get involved with a DL project."
+322,kqzn0cn,1ats6qb,11,"Get a job as a Python developer and get some experience while doing machine learning in your free time.  After a few years, you should be able to find the actual job you are looking for"
+323,kr0lgmo,1ats6qb,7,Do you have an undergrad in CS? Business analytics and data science isn’t as strong as a MS in pure computer science in terms of coding skills and algorithms. So that is hurting you.
+324,kqza6bu,1ats6qb,7,"Well, the huge amount of layoffs from the most prestigious companies in this field don't help your situation.
+
+And from your writing you don't come across as a person that would create a good vibe in a team, as you have said yourself, you have extensive knowledge but struggle with rapid fire questions about your field of expertise.
+
+Maybe don't shoot for the best of the best of the best positions, but something more realistic. Top50 University doesn't mean slack, it is top10 and even then it must be top10 for your specific subject or you can consider it same as top 300.
+
+Try to go to events organized by industry and academia and connect with the people this way. A lot of jobs are still given through connection and vitamin relationship."
+325,kr4m78d,1ats6qb,2,Did you use ChatGPT to write this post? It reads exactly like ChatGPT...
+326,kqzi2hl,1ats6qb,5,You know what things you need to work on. Work on those.
+327,kdyfunx,18ldrip,6,"What have you done previously?
+
+Mr ""word-word-xxxx"" account"
+328,kdyp0pm,18ldrip,8,"This is clearly a fake phishing account, do not share any info with them. Just downvote, report and move on"
+329,kdx0lw9,18ldrip,1,I'm up.
+330,kdz05m4,18ldrip,1,"Here is my github: [https://github.com/andysingal](https://github.com/andysingal)
+
+Medium: [https://medium.com/@andysingal](https://medium.com/@andysingal)"
+331,kdwyoks,18ldrip,0,Me!
+332,kdxelc8,18ldrip,0,Im down!
+333,kdxfgjm,18ldrip,0,"I'm down as well!  
+
+
+[Github](https://github.com/philippweinmann)"
+334,kdxogi6,18ldrip,0,Im also down!!
+335,kdxvqe0,18ldrip,0,I am down
+336,kdxybf9,18ldrip,0,I'm down. Still learning but always curious to learn and collaborate
+337,kdy8i9y,18ldrip,0,Sure!
+338,kdyfylh,18ldrip,0,"I'm up! did a basic object detection project some time ago, currently playing around with Liquid Neural Networks and Diffusion models."
+339,ke5eowr,18ldrip,1,I am in.
+340,mi6f65t,1jcw1ri,4,Can I ask what you mean by implemented GPT-2? Are you saying you trained a decoder transformer that you built from scratch on 8 billion tokens of web data?
+341,mijg6rx,1jcw1ri,4,"While it seems you're doing quite well in using/training transformers architecture on NLP based tasks, maybe expand your portfolio by using the same concepts of transformers for other types of data like time-series etc. And don't forget to upload your projects on GitHub and share with all of us! Cheers! ![gif](emote|free_emotes_pack|slightly_smiling)"
+342,miff7m7,1jcw1ri,0,"abounding yam bells cagey consist complete aspiring engine cats sip
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*"
+343,miha3vj,1jcw1ri,0,Try training an LLM with methods like RAG
+344,maft4fu,1ifftpg,22,"Keeping things closed always hurts science. If we take patents for example, our patent system was designed to say, here you can gain exclusive rights, but you have to publicize everything about it. Every detail so someone else can built on top of it. If we look at the advances that were made, they didn't come from closed systems but from Open Source and Open Science, because that is the best way to go for the benefit all of humanity. Did openAI obtain all of their training data legally, 99.9%likely NO. So they can just shut their cakeholes."
+345,mafv0w9,1ifftpg,9,"Open, it was a betrayal of the original OpenAI principles that they're as closed as they are."
+346,mafzkx4,1ifftpg,5,"Even if they used the outputs of open AI, it's still a very marked scientific improvement. They have transformed the space in the sense that we have learnt that 
+1) we no longer need the same level of GPU, compute, cost
+2) we can engineer the attention matrix using mathematical techniques to leverage low rank, and other algorithm contributions
+3) in the event they used the outputs, it shows that recycled outputs can be used as inputs to create an even more powerful model which is something no one had tried and succeeded at. 
+
+They have democratized the space which was previously occupied only by groups with access to billions in funding. So yes, they absolutely did the right thing."
+347,mafv9wh,1ifftpg,8,I'd be more sympathetic if OpenAI didn't steal all the data to start with.
+348,mafucgm,1ifftpg,2,open.
+349,mafutvg,1ifftpg,2,100% open
+350,maiujub,1ifftpg,2,"OpenAI whining about others using the output of their closed-source model to train open-source models is the biggest joke this field has ever witnessed.
+
+The entire planet is sueing OpenAI for the large-scale copyright infringement they committed to train ChatGPT."
+351,maklh6s,1ifftpg,2,"It should be truly Open for these ML models. Open not just as fake OSS which is weights available, but that we also know all training data.
+
+But if course we don't live in this ideal world. Certain companies want to increase their power. Now we have the government which also acts on the AI space in very suboptimal ways.
+
+It's all a huge mess."
+352,magpbem,1ifftpg,1,"Open, specially which data was used for training. Models should be audit to be sure that there is not bias that can affect users."
+353,maigxny,1ifftpg,1,I am in favor of Open Source software as these applications are in favor of humanity. We would be below the poverty line if these open-source applications were not made in the market.
+354,makdawb,1ifftpg,1,"Everything should be open.  Even when it’s open we still struggle to break the barrier of entry running local on prem.  Every AI model has a counter model, but not if you restrict open source."
+355,mb2sguw,1ifftpg,1," It’s a tough balance. Protecting models makes sense given the costs, but locking everything up could slow innovation and concentrate power in big tech. Open-source AI pushes progress, but where do we draw the line on fair use vs. copying? Curious to hear what others think!"
+356,mag0gas,1ifftpg,0,"None is entitled to your innovations.
+
+Wanna keep them closed? By all means.
+Wanna keep them open? By all means."
+357,mafrxno,1ifftpg,-1,"Can introduce law where you can't use someone else's for commercial or if you do use it, profits % should be shared like a royalty maybe."
+358,kr6685i,1auf49h,3,"Ideas are not worth a dime.   Even prototypes are a very small percent of success.  I have shit laying around my house that could make millions.  No one gives a damn.
+
+The only way you will get this off the ground is if you pay someone a lot of money or learn to code and start writing the thing yourself.
+
+Said that I wish you luck in your endavior."
+359,kr3u6zw,1auf49h,4,bro post this in r/MachineLearning
+360,kr3j45e,1auf49h,2,What kind of partnership are you looking for? I recieved Ph.D. in Civil Engineering for ML/DL applications.
+361,kr7kgzo,1auf49h,0,"I'd say, as long as you don't need ""unattainable"" training data you'll be OK. I know a bit about everything involved, but start with the PhD comment, who knows!"
+362,kr7baks,1auf49h,-1,interested to talk
+363,kr4e1pf,1auf49h,-2,I am also interested if you can share your idea it would good.
+364,mgo78ue,1j6fagf,20,"if you are not able to learn to code, learn any core concepts or brainstorm and work on proper projects you should find a different field
+
+Why would an employer want someone who cannot code, doesn't know core concepts and cannot contribute to proper projects?"
+365,mgtilnv,1j6fagf,3,">i am not being ale to properly learn to code or learn any core concepts, nor am I able to brainstorm and work on proper projects.
+
+Umm... So can't do any of the things needed for an AI engineer? Are you saying you are looking for a way to do them or that you're not able to do them at all? If you simply believe you are 'incapable' of doing those things, then AI isn't for you. But if you meant to say you're looking for the best way to get started on those things (AI theory, coding AI models), I suggest
+
+1. Watch coursera's deep learning specialization.
+
+2. Search for YouTube videos for nice visualizations and tutorials. There are some really nice ones like StatQuest and 3blue1brown. They help a ton for understanding the concepts.
+
+3. Make sure you understand the overall concepts, but do not waste too much time on the pure theory at first. Many of the Python libraries provide automated implementation of different methods. You will not need all the math when your plan is to do some basic projects
+
+4. Go through github repos, find simple codes of different projects, run them and play with the codes, ask chatgpt for explanation on any part of the codes you need clarification on.
+
+These steps should get you started. Do them all properly and you'd learn a lot."
+366,mgpcbm1,1j6fagf,2,"With ADHD you have to find something that interests you enough and ilhas the right balance of challenge vs reward. 
+
+Develop something you're actually interested in that's small enough to complete in rewarding increments. This will help keep you engaged in your overall goal."
+367,mgpd88f,1j6fagf,2,"Sounds like therapy and medication will be more useful at this stage than advice on deep learning. There are a lot of people in the field with ADHD, so it’s not necessarily a blocker, but if your mental health is so unmanaged as to prevent you from learning to code or any core concepts that will be."
+368,mgodum2,1j6fagf,2,"You need to find your own interests. As an adhder as well, I love what I do, so that's good for me. The standard advice is to watch andrew ng, but honestly I didn't complete the course even though I'm 2 years into the industry."
+369,mgovu5f,1j6fagf,2,"Here is a challenge:
+
+Build the transformer NN from scratch.
+
+This will send you a path where knowing how attention mechanism works will become natural."
+370,mgx0pht,1j6fagf,1,"Code is maybe 90% of what you'll do in AI so if you cant do it thats a big issue.
+
+Maybe you need some assistance regarding your medical problems and how to deal with them properly"
+371,mgx2o7l,1j6fagf,1,dont let your disabilities limit yourself. Push yourself man!
+372,mgytxy1,1j6fagf,1,"As many of the other comments have alluded to I think you need to scale back your goals. I’d start small, first becoming proficient at coding and gain a foundation of the math and stats needed for ML, then focus on the internship or job. Startups notoriously hire people who can learn on the job and can be harder to land a job at than FANGG. I’m not saying you’ll never get a job at a startup, but keep in mind your competition will be people who jave been working with AI since high-school, and people with Masters or PHDs. If you’re struggling the basics the worst thing you can do is aim to high then have no where to go when things don’t pan out."
+373,mh8ven6,1j6fagf,1,"I own a company built around the use of AI for our segment of products. 
+
+Here's my take. You mention ADHD and OCD, those can be superpowers in the field, it's all about your perspective. And that's where you need to start. Find a way to turn your ADHD into a good thing. Turn your weaknesses into strengths so that you CAN learn how to code (since that is the goal).
+
+Then you can achieve whatever it is you want to achieve. And to set you on your path, I would love to recommend a book for you: Limitless - Jim Kwik.
+
+You got this, friend!"
+374,mhb8pq1,1j6fagf,1,"Just do a project. Learn as you build. This is the hardest but fastest way to learn. Regarding project ideas, just think of something that will help you in your day to day work or life."
+375,mgoj41b,1j6fagf,1,"I have Adhd and autism. I started learning code with small projects like pygame games and solving algorithm questions on leetcode. If you want to be gen ai mlops you do not need understand fully the concepts just be good at coding, make things run and connecting things like sound ai and llm as an example."
+376,mgpmwgy,1j6fagf,1,Given this background it’s extremely unlikely to find a role in a startup. Shoot smaller: focus on learning.
+377,ljxyfik,1f1bfml,0,Can you link to the sub?
+378,lc4npn4,1dxsuk0,2,"There are definitely fewer roles than there are qualified people to fill those roles -- even right now.
+
+Most receiving solid roles (MLE/MLS/MLR) in this line are seasoned MSc CS degree holders or PhDs in Math/CompNeuro/CS/Stats/Physics
+
+Who knows if this will change."
+379,lc4q2bp,1dxsuk0,0,"Been in this field for about 9 years now, the thing is not many companies really need ML. 
+
+Until recently most the ML jobs have been in big tech companies or defence sector (atleast here in the US). Once the hype dies down, its probably going back to how it was before."
+380,kv6sz3c,1bgaguo,32,[removed]
+381,kv6l12a,1bgaguo,6,"C++ is for CUDA kernels in the realm of GPU programming.  [AlexNet](https://web.stanford.edu/class/cs231m/references/alexnet.pdf) was the breakthrough for DL, made possible by high performance programming."
+382,kv646cq,1bgaguo,10,"R is interpreted, so not as high performance compared to C/C++.  C/C++ (using CUDA) is the language used for high performamce implementations on the lower level for deep learning and Python is typically the controlling higher level language for deep learning, e.g. Pytorch.
+
+I am not sure your analogy saying AI/DL is statistics on steriods is correct. Deep learning networks are not statistical in nature, they will give you the same answer for the same inputs. Generative AI typically adds noise to the inputs to ""create"" or ""seed"" new answers to emulate some statistical variance, but most other models are static sets of weights."
+383,kv6vpgi,1bgaguo,5,"Wrong question, don't understand the logic how OP put R and C++ on the same line.  What framework does R provide for deep learning? I mean does R even have like decorators and iterators?"
+384,kv78uho,1bgaguo,2,"In the current deep learning landscape, Python (with its extensive libraries like TensorFlow and PyTorch) dominates due to its user-friendliness and community support. However, for demanding tasks requiring high performance and efficiency, C++ is gaining traction.
+
+As for the future, C++'s strength in high-performance computing and its potential integration with quantum computing make it a promising candidate for advanced AI/DL applications."
+385,kv6p3z1,1bgaguo,3,neither lol
+386,kv6xq2r,1bgaguo,3,"Learning C++ because you are interested in AI/ML is like learning how to fix an engine because you are interested in F1 racing. 
+
+Learn a higher level language first to understand the concepts. You are 3+ years of dedicated studying before it becomes even reasonable to start touching lower level languages to perform faster computations. 
+
+Better than both, learn python first. R is not object oriented, and while yes it is good for analyses it won’t set you up well to learn other object oriented languages."
+387,kv91s2b,1bgaguo,1,python xd
+388,kv9r15h,1bgaguo,1,"R is often considered more specialized towards academia and research due to its extensive statistical libraries and community support in these fields. However, for deploying models in the cloud, Python is generally preferred due to its wide range of libraries for machine learning and data analysis, along with better support for web frameworks and cloud services. For computations on edge devices, C++ is recommended because of its efficiency and lower resource requirements, making it suitable for high-performance computing tasks where resources are limited."
+389,kvgkwan,1bgaguo,1,LLMs are (much) better at python because of the larger amount of training data and the focus on pythonic style not giving 15 ways to do something. LLM assistance will make python data scientists 10x efficient over R DS.
+390,kv60zxy,1bgaguo,-7,Rust
+391,ek6006z,b9ov67,6,"I have no idea what you are talking about. But I love it.
+
+If you want to full on generate music search arxiv for gans generating music. If you just want to make lyrics learn search for RNNs and when you make one train it on Immortal Technique lyrics. Now how to train it on real UK political data will be the true challenge of this project. If you have a background in deep/machine learning expect to spend hundreds of hours on the project. If you don't have the background expect to spend thousands of hours unless someone open sources a very similar project."
+392,ek5ztxp,b9ov67,3,Haha what
+393,ek68d38,b9ov67,1,That’ll show ‘em!
+394,ek6degt,b9ov67,1,"I think this sub is for AI related stuff. As for doing any sort of creative writing/art-just do it a lot, and expect to suck at it for a while before getting good. And read political or related literature/newspapers."
+395,ek7y8ue,b9ov67,1,"As it is well known, the UK goverment is made out of lizards. Except Farrage, he is an amphibian. And both lizards and amphibians do not have a sense of hearing as developed as mammals. So I advise you to do the following: acquire a set of lab animals, lizards and frogs, and test on them all musical instruments and noise producing stuff and take note which ones irritate them (an record all sounds). Then construct an LSTM and feed it the positively and negatively labelled sequences. Once trained, it should be able to continue a seed sequence which is very annoying to lizards. We will follow your experiment over UK media, but please let us know when will this be in the news"
+396,mmla9j0,1jwuegw,3,Paid open source?
+397,mndxbos,1jwuegw,1,Count me in
+398,mmmdor7,1jwuegw,1,Hey mate if u want you can join me i have plenty of stuff and ideas in this regard
+399,mk63zel,1jlscll,2,"It is absolutely understandable that you are worried. The world is evolving at supersonic speed and everybody is still unsure where this AI trend is going to get us all, even the top researchers at OpenAI, xAI, etc. However, one thing is for sure: the skillset will change if it hasn't already. Over the course of history, we've seen technology evolve many times, usually for the better. People don't lose their jobs, they just lose the old one and get a new one, doing something different. So it seems to me that you are on the right track to be at the forefront of this new generation - I don't care if you are at a ""tier 3 college"", that means nothing to me. Keep your head down, work hard, and keep going. Also, if I were you, I wouldn't disregard the possibility of opening a business if you have a good idea. It seems to be the perfect timing."
+400,mk5xc51,1jlscll,2,I feel like you are studying the right topics. You should be worried about your classmates who are not on the AI track.
+401,mkxu3fv,1jlscll,1,"It's fine to be afraid of. Just accept it.
+
+Job hunting is a matching game. Ask AI to help you refine your resume and help you do mock interviews.  
+You need to know what exact direction you want to work and connect with people. Social with them on LinkedIn, try to get some job refers from them. Apply to a bunch of companies, I'm sure there are some that will give you an interview oppurtunity. Continue improve yourself if you think the interview didn't go well.
+
+Most importantly, you gotta make up your mind and don't you give up. It takes time to land a job, but on the other hand, there's plenty of oppurtunities and you just need one of them. So it's not hopeless."
+402,mjltq3j,1jjbeb1,10,"OS class is important for every professional programmer. You will probably not end up working in research if you’re scared of taking hard undergrad classes anyway, so might as well take this so you can end up a better rounded web developer a few years from now."
+403,mjnauum,1jjbeb1,1,"OS knowledge  = reverence for memory managment. You haven't experience true pain until you've had to build your own memory manager. If you can't do that, you shouldn't call yourself a computer scientist, more like a computer hobbyist.
+
+Do not get into CS is you're afraid of things like OS."
+404,mjpy4tr,1jjbeb1,1,The only people safe from AI are lower level / systems folks right now and maybe some amazing researchers. If you know both you are in an elite group.
+405,me47zxc,1ivamo6,8,"Remove the blogs, put the research on the bottom back on top. Remove the course work, no one cares. List your skills and knowledge of architectures (GNN, LLM, diffusion, etc), List any relevant papers you are on."
+406,me6hp1t,1ivamo6,3,Lack of a graduate degree maybe? If you want to do research you are more likely to accepted if you're in grad school.
+407,mebcfet,1ivamo6,2,"GPT-2 from scratch sounds like a tutorial-following project, it being at the top gives for a bad first check since a lot of CVs that end up being trashed focus on tutorial projects or online coursework."
+408,mefkwsi,1ivamo6,1,"Check out Bittensor, get active on X, engage with builders and researchers, you’ll find something before you know it."
+409,mbffdvr,1ijmao7,3,"I can't find the paper, but there have been experiments published where people assigned different instances of LLMs to personas. For example, they might have two doctors and a few attending nurses discuss a medical problem. They found that the team of AI personas would actually tend to arrive at a better solution via their discourse than any isolated model. Which is really interesting, since it's the same underlying model."
+410,mbfazbv,1ijmao7,1,Great idea
+411,mbffrkn,1ijmao7,1,Make sure to crank up the temperature parameter.
+412,mbfy114,1ijmao7,1,"based on some youtube video i saw (i forget which one) google already is doing this, where they're selecting a portion of the model to emphasize when faced with a particular task.  this is the same as delegating different models to do different tasks, but in a more continuous way (no sharp boundary).  so if it has some math task, it emphasizes the weights associated with math, is my VERY rough understanding of the method.
+
+according to chatgpt it's in their gemini 2.0 flash, you can try it out in comparison to your method.  always good to have more experiments in machine learning, if you can afford it"
+413,mbghhpj,1ijmao7,1,"childlike society slap abundant insurance advise gray boast familiar sense
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*"
+414,m4x0x3c,1hqslrs,5,"I have a very similar build in the Enthoo Pro 2 Server Edition (with a closed side panel, it supports side intake fans for GPUs): 7950X3D, Asus X670E-Creator, 96GB RAM (48GB x 2), Corsair HX1500i, RTX 4090 + 4060 Ti (16GB). Here’s what I’ve learned:
+
+* Use 2 fast RAM sticks. It’s hard to maintain a stable system with 4 sticks running at 6000 MHz.
+* AIO for the CPU is better as a front intake to maximize the temperature delta. This CPU doesn’t produce much heat but is very hard to cool effectively.
+* I highly recommend checking out this case - there’s nothing better for multi-GPU builds. The 3 x 120mm side intake fans make a noticeable difference and allow for a much quieter system."
+415,m4x6bqs,1hqslrs,2,Why dual if there no NVLink on consumer nvidia gpu?
+416,m5r6z58,1hqslrs,1,"You said deep learning. Why 128 Gb of RAM.  In training is useless so much. You'll use triton and Deepspeed libraries therefore Linux, which is more conservative. You can train 2 B model maybe 3 B with some extra optimization on 2 video cards of 24 Gb. CPU shall help you though. But for me is quite heavy and energy hungry."
+417,ma19i83,1hqslrs,1,i think u should check whether ur PSU can fit O11 dynamic evo xl case.
+418,m4s9n40,1hqslrs,-10,Lol. Go cloud.
+419,lo2yiqh,1flhf8d,5,"I’m constantly battling against running out of memory on my random projects, but there are usually work arounds.. usually…"
+420,lo2z8rt,1flhf8d,3,"It's a big limit, I have a 3060 12gb + 64gb system ram, I can only ""test"" my architectures but then need to rent GPUs for actual training. Then again it forces me to find creative ways to work around it"
+421,lo30haj,1flhf8d,3,Depends for what. It's nowhere near enough for most modern things. It's OKish if you're working with stuff older than 2018.
+422,lo2zj58,1flhf8d,2,"I hope so, everyone keeps saying that 12gb is not enough but they never elaborate on what they work on, so it is probably true that is not enough, but also depends on the context.
+What I've gathered by reading online is that, as long as you don't want to go production level with LLMs you should be fine."
+423,lo31hde,1flhf8d,2,"Is low for LLms and images(often) but is usually enough for other types of data, depends"
+424,lo66xc5,1flhf8d,2,for CV 10gb is fine. I did my cv experiments on a 8gb 3070
+425,lo6d1s4,1flhf8d,2,"12 gb is good enough for most CV tasks. 
+
+The 4070ti super is the best consumer card for non LLM tasks. 
+
+3090 is bare minimum if you want to run LLM inference or fine tune a 7b model"
+426,lo6od44,1flhf8d,2,"Depending on the GPU, your card may run out of memory before saturating the compute power, it will result in 60-80% GPU usage when training.
+
+Moreover, depending on model’s size, the difference between 12(100%) and 16(133%) may be greater than 33% more memory:
+
+* 1GB: 11 vs 15 -> 36% more usable memory 
+* 2GB: 10 vs 14 -> 40% more usable memory
+* 3GB: 9 vs 13 -> 44% more usable memory
+* 4GB: 8 vs 12 -> 50% more usable memory
+
+Etc..
+
+Personally I wouldn’t go beneath 16GB unless financially constrained.
+
+LE: unless you run a headless system, windows takes another 800Mb of VRAM, on linux xfce takes around 500MB"
+427,lo6s8x6,1flhf8d,2,"Without any information about what kind of data you want to work with, no one can answer your question.
+For my usage, 48GB is my acceptable minimum"
+428,lo8uols,1flhf8d,2,"I don't really know why so many people here seem to struggle with their VRAM. Unless you are dealing with LLMs, one does not need that much VRAM if training is implemented efficiently. You can also calculate your approximate VRAM requirements.
+
+Approx. VRAM per Batch:
+Batch_size * Channels * Height * Width * Bytes_per_Value
+ E.g. 128 * 3 * 512 * 512 * 4 / 1e6 ≈ 400 MB per Batch 
+
+Approx. Model parameter size you can use during training per 1 GB of VRAM:
+VRAM_GB * 1e9 / Bytes_per_Param / 4
+E.g. 10GB * 1e9 / 4 / 4 ≈ 625M Parameters
+
+The calculations suggest that you can probably train a 625M parameter model with a batch size of 128 with 512 Pixel RGB images with your 12GB VRAM. Maybe a bit less to account for overhead and system usage. Note that I assumed 32bit float values therefore 4 bytes per value/parameter. Also during training the Optimizer usually saves several states of your model so you need to multiply the total model size by at least 3 or 4 during training but this does not apply to inference. I used 4 in my calculation just to make sure.
+
+Performance recommendation:
+1. You can use very small batch sizes to decrease the VRAM size of each batch. And then use gradient accumulation to virtually increase batch size as large as you like.
+2. Use a dataloader so you only need to stream the batches to VRAM and do not put the whole dataset into the VRAM at once. This introduces some CPU and bandwidth overhead but saves a lot of VRAM and your dataset can be arbitrarly large.
+3. Use mixed precision or just train in bfloat16. This halfs your model size and you can make use of the Ada Lovelace GPUs Tensor Cores which should also speed up training.
+
+So with 12 GB of VRAM and the above implementations you should definitely be able to train models up to 500M parameters which should suffice for most CV tasks!"
+429,keq2s9a,18poj80,3,"Stop shilling a medium article. If you have some revolutionary technique, publish it in a conference or at least on arxiv."
+430,keq2xif,18poj80,0,Link: https://medium.com/ai-advances/structured-hierarchical-retrieval-revolutionizing-multi-document-rag-architectures-f101463db689
+431,k4f0l52,175a7vl,6,"I would really look into your universities infrastructure on servers. There is generally a lot of serves running where you are able to get a slot based on which subjects you are taking etc - its often just to ask (f.ex your professor). Its nice with a great computer, but its so nice to be able to offload the workload to a beefier setup. I have a pretty descent (to say the least) laptop, but still do some work on a home server, a 48 core/188Gb ram server and the top end stuff on a supercomputer. While not everyone can use a supercomputer, there is a good chance the university have a pretty good server for you when you are going to do the most computational intensive tasks.
+
+The added bonus is that you can have a computer with better battery life etc."
+432,k4eiht0,175a7vl,3,If deep learning is the prime concern going for the laptop with most gpu vram would be the way to go. Since hosting of the models on local systems for projects and stuff will be on the list it would be more intensive on the gpu and the RAM. So i would suggest you go with the 4060 8gb vram one. As it is also cheaper and provides more vram. But acer nitros have been notorious for overheating so buying a nice cooling pad with the left over money will do trick. Cheers..!!
+433,k4f1vqi,175a7vl,3,"You want the machine with the best GPU for the money.
+
+The most important GPU specs for deep learning are tensor compute TFLOPs, and VRAM size, [among others](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/).
+
+Look in [these tables](
+https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units#GeForce_40_series_2) to compare models."
+434,k4gsxea,175a7vl,2,"4060 on the laptop is a good choice. Decent amount of vram, and less of a gap against its desktop variant than the higher tier gpus."
+435,k4h1xpr,175a7vl,2,Buy a laptop with a 4050 or cheaper and then pay for a Google collab subscription for actual training. Allows you to test local and train remote. This is gonna be your most cost effective choice. I run a $200 laptop with an nvidia quadro p600 and then once my code and training dataset look good I push to my work server with a pair of A4000s. Most efficient system I’ve found in doing this
+436,lkspp0z,175a7vl,1,"Hey, Im also on the journey to buy a laptop for my deep learning projects. I wanted to know which one you bought and how was your experience? "
+437,k1ppats,16p4ehq,3,I won’t buy an AMD GPU for DL until ROCm become a stable and mature library. The advantage of using CUDA is just too much
+438,k1r5h69,16p4ehq,3,"The amount of head banging u will do trying to use AMD GPUs for anything meaningful is currently not worth it. As it stands , nvidia has the deep learning market by the balls and then some."
+439,k1qdlod,16p4ehq,2,"Does it matter? Does the 1070 not do what you want it to? How so? Too slow? Not enough VRAM? Use that to guide your requirements and selection process.
+
+Can you use AMD? Absolutely maybe. Does anyone who uses AMD recommend it? Honestly, I know of no one who recommends AMD for DL. I'm sure they exist, but it must be rare or for very specific use cases."
+440,k1pcq8w,16p4ehq,1,"I tested simple matrix multiplication and VGG19 training, and an iGPU (5600G) was faster than the Tesla T4 from Google Colab."
+441,k1p1zes,16p4ehq,1,"Well. It is actually not that easy to answer. The ROCm support for the RX7000 Series GPUs is still experimental. So it might not be that easy to get it going. 
+If you get it going, an RX7900XTX will smoke the GTX1070. Ti or not.
+
+But you have to get it going. Under Linux it is apparently ok, under windows there is no support."
+442,k1tf8m5,16p4ehq,1,"AMD GPU is only good for a door stopper, waiting for a long time for so called DL support."
+443,jqe56f2,14onw0l,6,University
+444,jqe959c,14onw0l,2,https://web.stanford.edu/class/cs109/
+445,jqey0jp,14onw0l,1,"Getting to know a deeper insight into Deep Learning can help you figure out a field of research tbh. NYU's Deep Learning course assumed you have an ability to work with PyTorch, but I found it to be great and insightful.
+
+Since you want academic research I think that's the juicy part of what you would need to get an idea. That and just exploring papers and what trends there are. I will disclose tho that you are far more likely to get higher quality research done at a dedicated lab like DeepMind/OpenAI, etc etc (there are many great ones I didn't mention).
+
+Besides that i am not sure if you are aware but there are a lot of problems revolving around the engineering side of ML that is currently the larger focus of development these recent years. Whether it's the data engineering aspect or ML pipelines, these all require work, so these are just some things for you to consider as well."
+446,j8gmune,111spnb,6,"PyTorch MPS is buggy. Even with the stable build. Something with cuda is far better imo. Personally I use a mbp 14’ with the M1 Pro base model for literally everything and then I have a desktop (had one cuz I play games, just upgraded the gpu to a cheap 3090 I found online, works like a charm for 99% of work loads when it comes to training something. 
+
+For the 1% when I do not have enough compute I use my universities cluster or compute Canada for distributed training."
+447,j8h28vw,111spnb,2,So today I found out that mps on PyTorch 13.1 (stable) has bugs causing a lack of learning. FashionMNIST accuracies bounced around in <10%. Switched to cpu and worked fine (>80%)
+448,j8gmxcw,111spnb,1,"Read this:
+
+https://www.reddit.com/r/mac/comments/10gpu46/hardware_for_scientific_computing/j54jpj3/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3
+
+My recommendation: (1) Abandon macOS and get a laptop with an Nvidia GPU. Or (2) If you don’t like working on Linux/Windows and prefer Macs, then get a cheap MBA and an laptop with an Nvidia GPU. Use the Mac for coding but run the codes over ssh on the Nvidia laptop. The combined price would not exceed that of a specced out MacBook Pro, while the perf benefit would be more than 10x. Or (3) If you want to both code and run your code on a Mac and also don’t want to carry two laptops, then get the highest specced MacBook Pro possible. Neural network training is computationally very expensive. Normally we run our neural networks in our lab servers that contain anywhere between 4 to 64 GPUs. Even the highest end M2 Maxes are nothing to an RTX 4090."
+449,j8h8tnp,111spnb,1,I’m just confused as to who the MacBook is for
+450,j8ixw8r,111spnb,1,"none. run ur jobs on a pc, connect to it using vnc/remotedeskto a cheap laptop or if you are savvy, ssh. 
+
+much better setup and bang for buck imho."
+451,icwjdbf,vfdzfc,7,https://arxiv.org/abs/2201.00650
+452,iapw6mk,v14o0l,1,"I am thinking that you can make your version of torch somewhat a challenging way of learning pytorch, or perhaps something to use in interviews to trick/challenge interviewees ...  also make sure to write the comments in English not French"
+453,hsvw6rn,s5789s,6,"No. Forget about training DL stuff on your laptop. Learn to use cloud tech - colab, kaggle etc.,"
+454,hsvo47e,s5789s,8,"For training you need a powerful desktop, nothing less gonna cut it. Or you could get a Collab account or if Sagemaker lab has started services and save yourself the hassle. Even powerful laptops like the ones that come with a 3080 are much slower than their desktop counterparts (desktop 3060ti in this case) and laptops have poor thermals on top of it."
+455,hsvojt2,s5789s,2,"If youre going to be doing some more intense deep learning trainings, then I'd suggest getting laptops with at least a NVIDIA GPU to make use of the CUDA and cudnn libraries. 
+
+And maybe not a good idea to train models on laptops, ive done it before and i almost killed my poor laptop."
+456,hsvp0b5,s5789s,2,"Get any laptop with GTX 1060 or above, train model on colab , that's the best approach"
+457,hsvoi45,s5789s,1,Doesn't matter. It is too weak for deep learning but you want to use Google colab or something similar anyway.
+458,hswmbdo,s5789s,1,matebook is good for business people. You cannot use it for training tasks. Better to go with a lenovo notebook that has Nvidia graphic card so that you can use cuda or buy a M1 Pro/Max Macbook and use Colab.
+459,hswql9m,s5789s,1,"Get a Gradient Paperspace account.
+Yearly membership. 
+Decent free GPUs.
+Cloud hosted jupyterlab environment or make your own VM."
+460,ht0bw38,s5789s,1,"I have the same question.
+
+But what I would also like to know is if I buy it right now. Will all the libraries needed for ML and DLearning will be available and work well. Especially Pytorch since it was the one that I was aware of that wasn't working a year ago.
+
+I really need a new laptop and do not want to have trouble with libraries."
+461,hvckwfy,s5789s,1,Very unlikely. It's a Core i5 with 8GB RAM. One of the [slowest laptops around](https://highperformancelaptops.com.au/reviews/huawei-matebook-14-2021-review). (But very good in other ways).
+462,hmx1tak,r73tpz,0,yawn
+463,hagp932,pc6lqa,4,"Respectfully, I would reach out to the individual(s) that published the literature you're citing in the above. If they do not respond, their publishers. Best of luck!"
+464,gf5qkid,k9q1vc,3,There are many single shot based detectors for text detection. Example: https://openaccess.thecvf.com/content_ICCV_2017/papers/He_Single_Shot_Text_ICCV_2017_paper.pdf
+465,gf5okvi,k9q1vc,0," 
+
+Given an image of a document as shown in pic 1, how to plot boxes on text blocks in pic 2. I have got good results in OpenCV but I wanted to use ML models so that I could submit this as a project for my ML course in college. Any suggestions on what approach to go with?"
+466,g6ymg60,j1bjye,2,I think the UTD is a good option for MS in CS
+467,fv46391,hapd33,1,Nothing seems wrong for me. Maybe you used the wrong URL: [https://towardsdatascience.com/](https://towardsdatascience.com/)
+468,fqx37fl,glc8is,1,One negative aspect of democratization of AI/ML is that every second person has done these projects.
+469,fgwvsoo,f0pxp4,1,I can recommend a dataset to work with. https://www.kaggle.com/solesensei/solesensei_bdd100k
+470,f1rzlyn,da3pcc,1,So how was this made?
+471,djlxdmx,6kfa1p,2,"Not quite yet but we're close.
+
+https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html?m=1"
+472,djlxb10,6kfa1p,1,"This isn't a focused enough application for deep learning.  You can certainly teach a computer to teach others, but it would be computationally ineffective (you could hire literal teachers for the prices you'd pay to train and run your model, and even then you could spend your whole life ""perfecting"" it to only be as effective as a large city, public educator).
+
+A better method would be to use deep learning to parse questions and run that through a set of rules, like how troubleshooting works in windows.   
+
+I'd love if I could say ""where is the square bullet point"" and have the computer quietly highlight the menu field for bullet points."
+473,dcbwmtw,5nh7kx,4,This list is too old. It even doesn't have TensorFlow!
+474,mtbkz5j,1kr91xm,23,"Pretty much all the people who are the best in their field have the same traits. Relatively well versed in many topics. Spent a tonne of hours in their field studying it relentlessly mastering the known processes, then find something that noone else did which is better and implemented it into their work flow. Simple."
+475,mtbjjkw,1kr91xm,18,"Be good looking, well dressed, well spoken and have charisma.
+
+You can fake all the rest by getting other people to do it for you."
+476,mtbtxwn,1kr91xm,8,Be a genius in probability and statistics
+477,mtbq1o9,1kr91xm,3,"To be a top AI engineer, master math (linear algebra, calculus), ML/DL frameworks (PyTorch, TensorFlow) and Python programming. Focus on real-world problems, data skills and deployment (MLOps). Stay curious, communicate well, keep learning and build projects to stay irreplaceable."
+478,mtbj9zm,1kr91xm,4,"two: communication, and ability to adapt to new technologies."
+479,mtc2zc7,1kr91xm,2,"I'm myself not an AI specialist, but hire some of them. Their knowledge is obviously a key element. 
+
+Their personality, their ability to work in a team and their grit to getting things done one way or another are - for me - more important than their hard skills."
+480,mtddshu,1kr91xm,2,"Use the least amount of resources for the best effect.
+
+If you can run things in the terminal vs a gui and get the same effect youre using more compute for your desired output. Not everything needs to be terminal run - its knowing what is worth doing it that way.
+
+For repetitive tasks, you develop automation pipelines, and self host them if possible and use free tier for services if not.
+
+The more you can create value for less cost, the more skilled you are."
+481,mtbivo2,1kr91xm,1,Lmao.
+482,mtbm349,1kr91xm,1,ai boom is creating anima trust issues
+483,mtbvvjz,1kr91xm,1,"First you need to understand computer science very well.
+
+Second you need a degree in the field."
+484,mtc9xs4,1kr91xm,1,Actually and truly understand machine learning.
+485,mtcok2z,1kr91xm,1,Marry an indian and then just strike the ladder of relatives. They will convince their company ceos that you are best of all etc. Why you think we got so many indians in tech ? Thats how they do it. They hire their own cousins and friends no matter how talent less they are.
+486,mth14qc,1kr91xm,1,"I can tell what’s often missing as a community trait: AI engineers typically lack the business perspective. Some are good at selling ideas, but they’re generally biased toward the technologies they love or what they’d enjoy working on, rather than focusing on what actually delivers value or fits real business needs. The result is that technical enthusiasm sometimes overshadows practical business outcomes."
+487,mu6jgjm,1kr91xm,1,"Have a team with similar minds, and learning then  implementing, it is the key"
+488,mxu3z8q,1kr91xm,1,"To really stand out as an AI engineer, you need to be able to build real stuff that solves real problems. You’ll want strong Python skills, a good grip on ML fundamentals, and experience with tools like PyTorch or TensorFlow. But beyond that, what really makes someone irreplaceable is being adaptable, understanding how to deploy and scale models (think MLOps), and being able to communicate clearly with both tech and non-tech folks. The field moves fast, so staying curious, keeping up with new research (like LLMs, RAG, etc.), and actually building projects that work in the wild will set you apart more than just knowing algorithms."
+489,g1akb0g,i8sai8,52,Learn to pick your battles.
+490,g1b2krg,i8sai8,9,"What does ""basic""mean? It's just a word. You know stuff they don't know. They know stuff you don't know.
+
+Actually I find it more relaxed to be underrated than being overrated."
+491,g1akipl,i8sai8,16,"I am sorry they are treating you that way. Let your work speak for itself. It seems like it’s a case of them trying to show dominance since you are “just an” intern in their eyes. If it becomes a case of bullying / ridicule, then I would suggest doing something more assertive but for now just stay calm and continue doing amazing work and let them see what you are capable of :)"
+492,g1b518n,i8sai8,14,[deleted]
+493,g1b5kvf,i8sai8,3,"Agree with others, let your work speak for itself. My guess is that they’re underestimating due to you being an intern and not because you’re not competent. I typically don’t put too much stock in the new hires until they’ve proven themselves a bit regardless of how good their resume looks because I’ve worked with some people who produce really mediocre work who look great on paper. If you finish the work they give you quickly and the quality of your work is high, they’ll take notice."
+494,g1biktz,i8sai8,2,"""Lion doesn't concern itself with the opinion of the sheep."" - Lord Tywin Lannister"
+495,g1bmhk8,i8sai8,2,"""...if they claim to be a wise man, then it means they surely don't know."" -- Kanasas
+
+If I here someone claim to be an expert in something, I know they aren't. A true expert understands the vastness of what they still don't know, and thus won't claim expert status. Let them judge you by your work, not your words."
+496,g1bjhm9,i8sai8,1,No need to be upset if you know the truth. Call them out on their mistakes when the opportunity exists. You will always have to prove yourself to every new group of people and it always takes some time (unless you are famous then you aren’t really new to that group).
+497,g1b8w3b,i8sai8,-1,To be honest you don't owe anyone any explanation. Your work in coming future will show them what you are capable of and then they will be ashamed of how they treated you. This is no way to treat an intern (or anyone). I also joined a startup few months ago to work on ML/DL and my boss would tell others guy he is classical CV expert and all I knew was OpenCV (that gave me a lot of confidence and made the work environment so welcoming).
+498,g1bbm88,i8sai8,-2,They always do that to interns in all companies around the world... It's just a shit hierarchical mindset. Don't worry about that.
+499,l2gjnmm,1cjfnr7,31,What a worthless post.
+500,l2g5t7w,1cjfnr7,35,"Wrong way to think about it. Research works by building on top of existing research. 
+
+Imagine if people read the DPPM paper and thought ""ahh dead end why would I do 1000 unet forward passes to generate one image"". Or the original attention paper and thought ""what's the point of this added complexity can just weight lstm gates instead"". We would never have any of the diffusion or transformer models we have today.
+
+Edit : I meant the original attention paper by badhnau and Bengio not the transformer paper by vaswani which uses attention to make the transformer work."
+501,l2foecy,1cjfnr7,7,"The authors did purpose a form of MLPs with learnable activation functions (they called it LANs), wondering if that makes any sense."
+502,l2h0ovm,1cjfnr7,4,This could also be a post about the original transformer paper 7 years ago
+503,l2fql5l,1cjfnr7,3,RemindMe! 1 day
+504,lbcv05j,1cjfnr7,3,RemindMe! 5 years
+505,lf1fasp,1cjfnr7,2,U are aware there have been TONs of other papers using KAN on other datasets since the original paper right?
+506,l2g2t79,1cjfnr7,1,RemindMe! 1 day
+507,l2hdr16,1cjfnr7,1,Thank you for bringing [KANs](https://arxiv.org/pdf/2404.19756) to my attention.
+508,l2i6q5q,1cjfnr7,1,"The core of the idea is not new and the author admits this. Learnable nonlinear activation functions on outputs/nodes as parameterized by splines has been done before. The idea of doing it on edges is new. Yes, it is a simple idea. But I agree with the author that it gives a greater intuitive understanding of the nonlinearity of a transfer function. 
+
+Attention is a simple math concept. ReLU is a simple math concept. You do not need much more than high school algebra and firs-year college linear algebra to grasp these or to come up with the ideas. However, these simply tools have led to great leaps in AI.
+
+Let's wait and see of KANs can yield a similar leap as they are applied to non-toy problems as you note."
+509,h68a8ch,opwt09,8,"First of all, I havent read the book, nor other articles etc about this. 
+What strikes me on the first glance is: What exactly is the role of AI/ML in this? Couldnt you do the same thing with non-learning algorithms?"
+510,h68b7zq,opwt09,4,"FB isn’t being hypocritical, they’re either bullshitting you or bullshitting themselves. The ML peeps at FB genuinely want to do good, I believe. And they sometimes do good things. 
+
+The problem is the business model. They literally make larger profits the more they are capable of invading your privacy. Their profits (and market dominance) depends on being put you in a box, capture your attention, and sell you shit that you wanna buy. Maybe you actually need it. Maybe you don’t. Facebook doesn’t care. 
+
+A system’s purpose is what it does. Facebook makes fuckloads of money by selling targeted ads on its platform. EVERYTHING is a side effect of this. If you work on a team at facebook that has KPIs related to “engagement”, then you know. Facebook makes no money paying you lip service about doing good in AI, or respecting the attention span of its users. 
+
+Facebook makes PyTorch, which attracts engineers and allows them to build a platofrn for technical DL specialists. Then they can hire those specialists to make money selling ads. 
+
+Facebook works on VR at oculus labs. VR happens to be the most popular eyetracking device with a connection to the Facebook SDK on earth. They want your eyetracking data so they can sell you ads. 
+
+If it makes them money, they’re genuinely invested. If it doesn’t make them money, they’re working on a way to make it profitable or they’re keeping tabs on it to make sure it’s never a threat."
+511,h682x76,opwt09,4,"Facebook reacts to outrages that get noticed in the US. Outside US it is enabling hate and violence against minorities and refugees. In India, it refuses to take action against the gross violation of its policy by anyone from the ruling political party."
+512,fmjt43q,fvd5er,3,"It's Boston Dynamics, not Google... It's spam, zero content.
+
+Please learn OP's user name, always downvote his posts."
+513,fmk0xe5,fvd5er,1,lol google got rid of that money pit years ago
+514,jip7ea1,136dkbg,23,"Sad part? With all those filters and makeup, neither videos represents reality."
+515,jipqh9o,136dkbg,3,Which one is the real one?
+516,jiphw63,136dkbg,7,"Srsly if you watch the full video YT link posted this is creepy af.  It’s like a *MUCH* older man who just keeps selecting pictures and videos of young girls *only*.
+
+Never once does he animate or process images or vids of Geoff Hinton, Yann LeCun, Jerome Powell, Lebron James, or any other celebrity or famous person, it’s just young girls over and over again."
+517,jio5b8f,136dkbg,2,"If you want to recreate this, you can check this tutorial: https://www.youtube.com/watch?v=W\_HobNsqOaE&t=1s"
+518,mu524po,1kuwm8w,9,You can just... do things
+519,mu6nggr,1kuwm8w,3,"Try asking GenAI, this is part 1 of 5 of its response to your question:
+
+
+Here's a structured roadmap to guide you from your current understanding to effectively working with LangChain, Agentic AI, and beyond:
+
+GenAI Learning Roadmap: From Theory to Application
+
+Mindset Shift:
+Before diving in, understand that while training massive models is still a frontier, a huge part of modern GenAI (especially with LLMs) is about leveraging pre-trained models effectively. This involves prompt engineering, integrating models with external data/tools, and building intelligent workflows.
+
+Phase 1: The New Foundations - Transformers & LLMs
+
+You know GANs, but the actual foundation of most modern GenAI (LLMs, Diffusion Models) is the Transformer architecture.
+
+Reinforce/Learn Transformers:
+
+Why: This is the backbone. Understanding attention mechanisms is crucial.
+
+Key Concepts: Self-attention, Multi-head attention, Encoder-Decoder (or Encoder-only/Decoder-only).
+
+Resources:
+
+""The Illustrated Transformer"" by Jay Alammar: Absolutely essential. Visual, clear, and makes complex concepts understandable. (Google it, it's famous!)
+
+Hugging Face Course (Chapter 1-3): ""Transformers"" part. Very practical and code-oriented.
+
+Stanford CS224N (Deep Learning for NLP): Lectures on Transformers (available on YouTube/Stanford website) for a deeper dive."
+520,mu4ybzj,1kuwm8w,2,Google has some free and good courses along with their collab to get started with some free projects to get familiar with the basics
+521,mu59s6w,1kuwm8w,2,Krish naik's course on Udemy starts from basics to advanced and it's 54 hours course which covers every topic
+522,mu5cdd7,1kuwm8w,2,"There are some paths.
+It might seem a bit too complex in the beginning, but it does get easier.
+Simplifying it a lot, you have two paths you should play with:
+- using frontier models/proprietary: openAI, Anthropic, Gemini - in the case of openAI and Gemini you have playgrounds. Places where you play with Sys prompts, actions, models and settings. For free. But to build something using their APIs, you need to pay.
+- open source and self hosted: I recommend two courses to learn about this and play around creating your own applications:
+https://huggingface.co/learn/agents-course/unit0/introduction - free and ok. You learn about agentic frameworks which is the current trend of using GenAI/LLMs.
+https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/ - you can buy for 10€ when on sale. Worth the value. Also covers using frontier models.
+
+
+Then there is the image generation path and so on. It is where I started and it is a magical rabbit hole."
+523,mu5gvyl,1kuwm8w,2,"* Introduction to Generative AI - Google cloud
+* Gen AI Automation - vanderbilt University
+* [IBM Gen AI Engineering - IBM](https://imp.i384100.net/09XOMJ)"
+524,mu6kvrt,1kuwm8w,2,"Start with the openAI docs, get a single model call working (ie call the chat completions endpoint with a simple user message). From there, run a prompt in json mode. Now add some variables to your input prompt using .format. Now you’ve got structured input and output. That’s the atomic building block of pretty much everything going on at this point. You “chain” conventional code in and out of LLM calls using structured IO for any pieces requiring some “intelligence”. 
+
+Ex. Try to create a model call that takes some scraped html as input and outputs clean markdown. Now you’ve build a genAI scraper. 
+
+
+From there next steps are 1) building a chat with function calling, then 2) doing basic RAG with pinecone. From there you’ve got basically all standard CX bots, wrappers, custom GPTs. Again just follow the docs. 
+
+All the models run off the same-ish chat json structure, so pick OpenAI or Anthropic and stick to one until you learn it all.
+
+There’s a bunch of bells and whistles from there, model abstractions, frameworks like lang chain and llama index, observably. But at the end of that day you’ll have a firmer understanding just running with the core interface at the beginning. The libraries are all really young, confusing and underdeveloped, as useful as they are / may eventually be. Once you get how it works you can plug and play that stuff  
+
+That’s how I would go about it!"
+525,mu6byv8,1kuwm8w,1,For deep understanding you need to know probability
+526,mvm5owj,1kuwm8w,1,"Honestly? Just build something small like an AI assistant, a doc summarizer, whatever. You'll learn more from debugging your own prototype than any course."
+527,miz9ret,1jgd00d,13,"The Mac won’t be fast enough to train. Even if the Max was four times faster, it wouldn’t have been enough. 
+
+I have an M1 Max I bought when new. Yet I constantly just moved over to my Linux based GPU machine.   In retrospect, I should have bought an Air and more GPU for my other machine. 
+
+I never needed a lot of RAM."
+528,mj04b24,1jgd00d,3,"I mean, if you want to do *very small home projects* and possibly play some of the few video games that Mac supports (like WoW), then just go for the better GPU. But really, if you’re doing legit deep learning research/projects, you need access to a cluster, and you’ll be handling your work via remote connection."
+529,miz410t,1jgd00d,2,48GB if you really need it
+530,mj35ji6,1jgd00d,2,"I would recommend you to check a few github repos that you're interested in, and see what tools they use. Mostly the code will be on Debian based distros like Ubuntu, Mint or Debian itself. The code normally supports NVIDIA cards as a first class GPU type.
+That said, buy an M4 / M3 pro with basic specs, and spend the rest on NVIDIA and other hardware for your Linux machine."
+531,miyrtbw,1jgd00d,3,lol
+532,mj5lk6x,1jgd00d,1,"Get a reasonably lightweight MBP. I think it’s the preferred development device but you will not be running anything on that machine. Remote into EC2 and the like. Remember it’s CUDA or nothing, at least for now."
+533,mj8azeg,1jgd00d,1,"You can learn and do eveeything on a 13 inch macbook air. Splurge if you want to on either but you don't ""need"" either of them to learn. I am working daily and earning big money doing everything on an office provided 13 inch air m1. You get good at ml by learning theory and math and for that imo a book and pen paper is ideal or an iPad if you absolutely want to buy something."
+534,jmmy4pq,13xzbgx,2,"saved, thanks."
+535,jmu6tai,13xzbgx,2,Doing similar thing myself. Why the hassle with Windows and WSL? Just install Linux.
+536,jmnndfo,13xzbgx,1,Using parsec is another approach.
+537,jmoc6qe,13xzbgx,1,k
+538,jimcd8f,135zrlh,6,"You should hire an interview coach with experience in your area. Interviewing is very hard and most of us have close to zero practice.
+
+Also talk to your university's career center. They can help you prepare too.
+
+Don't go it alone, I've always considered searching for a job and interviewing to be a lot harder than the job itself. It's hard to get people to like you both objectively and subjectively in an hour or two."
+539,ix8hfiu,z11r42,12,"The key benefit of DL is deep feature learning, which reduces the requirement for feature engineering on existing data. ML models are typically fed features crafted by some traditional CV pipeline or domain expert, whereas most DL applications operate directly on the (pre-processed) data. The other advantage of using DL on images is the fact that we've worked out a variety of different approaches to learn useful representations from unlabelled data; this allows models to learn predictive tasks without the explicit need for troves of labelled data (see zero-shot and few-shot learning methods).
+
+Hope this brief explanation puts you on the right track to figuring out a thorough understanding."
+540,ix98a7f,z11r42,9,"A note on some of the terminology here:  Images and video are not typically referred to as “unstructured”except in special circumstances.  Images and video are highly structured and exhibit strong spatial and temporal correlations.  Sometimes tabular data in a common format are referred to as “unstructured”, while also data that are of mixed types and formats might be referred to as “unstructured”.  A low dimensional feature vector with nearly independent components that may even be in different units on each axis could also be thought of as “unstructured” in some sense of the word.
+
+Furthermore, Deep Learning is a subset within Machine Learning.  It would be like asking “Why do we use pickup trucks and not vehicles to transport small loads of lumber?”  We sort of *know* what you mean here, but the terminology is incorrect."
+541,ixc5aty,z11r42,2,"DL is a subset of ML.
+
+That being said, ML Algorithms that aren't DL absolutely **are** used in CV, just not directly on high-res imagery"
+542,ix8vwhq,z11r42,1,"CV is decades old. The methods have changed over time, with researchers/practitioners leaning towards the techniques with best results. As mentioned before, not only DL does not require feature engineering, but the performance of CV algorithms since the DL era is just unprecedented"
+543,ixbpvm1,z11r42,1,"1. deep learning is not the full solution but a part of solution to whole computer vision problem.  we get a powerful function approximator that can take in data and output data(surprise), where data can be anything made up of numbers or can be represented as tensors like image, video, even words if you can represent is as vectors. if you can just one hot encode words that is fine to DL will work with it(not as good tho). even in RL ,DL is half of the job and some times looks like the main solution.
+2. CNNs. image is a 2D structure and CNNs gives weight to the features made up of elements in the kernel ( you know what I mean).
+3. I do think DL might perform better on unstructured data just because of sheer number of neural network architectures and any possible combination of hyper parameters. some thing is bound to give good performance. and because of that bias we are bound to try more and more DL. Thus increasing its use in CV."
+544,iqogqbg,xt80zc,9,I have a msi laptop  with a rtx3070 and 32gb of ram. It is plenty for experimenting and training small models/datasets. Once I have something working and need more power I rent gpus by the hour from lambda labs or run pod. For $1-2/hr I’m able to get around 80gb of gpu power. Long story short I would go for the cheaper and use the cloud when needed
+545,iqorxoe,xt80zc,3,"If you're seriously considering doing deep learning build yourself a server, with the budget you specified you can build a decent machine 
+
+Also if had to choose one of the two I'd Alienware"
+546,iqp8nmt,xt80zc,3,"> Price: $3,800
+
+still you can get multiple RTX3090 24 GB at this price, I have seen even brand new cards are going for US$900
+
+>  Is 64 GB of RAM really needed for most moderate deep/machine learning projects or should 32 GB with a reduced batch size work fine?
+
+you will be training on GPU, so batch size is limited by 16 GB VRAM not RAM."
+547,iqpujzr,xt80zc,3,A desktop with 3090 is much better and cheaper.  Buy a big case with good airflow.   Or go for 4090.
+548,iqowbfc,xt80zc,0,Chrome book and log in to your cloud provider
+549,iqozhsf,xt80zc,1,"Alienware. Take minimum RAM/SSD et replace those by yourself (you can do this on the 17'' version, double-check that this is also true for the 15'' version. I think I remember some crap with the x15 like the RAM being soldered). You get the Dell on-site guarantee, and the machine is much cooler probably in both senses. 
+
+The real issue with both machines is that your GPU is soldered to the motherboard and thus will likely kill your laptop eventually.
+
+Also, good to know before you buy, I got myself an AW x17 R2 for prototyping and gaming, and I realized that the built-in speakers make the chassis vibrate and create a terrible crackling noise if you use them at mid to high volume. This defect seems to be present on the whole series. Also, the webcam is crap, and the battery doesn't last long. Not sure if the Lambda laptop is any better in these regards, though.
+
+A better bet might be the MSI Raider GE76 (if they have a 15 inches equivalent), but it looks a bit more flashy / less professional, you don't get on-site repairs, and the power supply is less transportable I think."
+550,iqp975j,xt80zc,1,"The Tensorbook is only $3500 unless you're looking at the dual boot model. I bought one and I've had no regrets, incredible machine. Maybe check out Sentdex on YouTube's review, thought it was pretty good."
+551,iqpj22d,xt80zc,1,"They are just rebranded razer blades
+
+https://www.youtube.com/watch?v=FmtB5-ZMRH0"
+552,iqpw8pw,xt80zc,1,"build a desktop or pay for hosting, get a macbook pro or one of those popOS laptops"
+553,iqqejcl,xt80zc,1,"Give [Oryx Pro](https://system76.com/laptops/oryp9/configure) a thought too! for similar spec, you can get similar price as the Alienware with Ubuntu preinstalled. Sure, it is based on Clevo laptops, but they also did some customizations specifically to make things work with Ubuntu perfectly.
+
+But in general, desktop PCs are preferred for deep learning. In my case, I have a ITX machine for side projects. Sadly, the GPU innit is outdated..."
+554,iqr5bxp,xt80zc,1,Something tells me you don't do deep learning yet
+555,h5n4445,omqoru,10,Poor you. Sadly there are not millions of videos for that purpose on YouTube. Also there are 0 google hits when i enter it. Maybe you should give up your dream after you tried already everything to achieve it.
+556,h5mo317,omqoru,4,Scroll down to pytorch recipes and click image/video https://pytorch.org/tutorials/
+557,h5n92r8,omqoru,2,Freecodecamp has an entire video on pyTorch don't know if it's specific to any application but without that understanding you can't really work on specific aplications.
+558,ectbbw6,aalgnq,1,Or numpy so you can understand how everything works :D 
+559,e26d72z,8xvwod,1,One suggestion: Explain and help people understand semi supervised and supervised learning approaches for AI.
+560,mhbrg65,1j99pvw,6,"Hey everyone, really appreciate all the support from the last post!
+
+I've trained 8 new LoRAs on the Wan2.1 14B I2V 480p model and results have continued to be amazing! These effects became really viral after being introduced by Pika and Pixverse, but now they can be used by anyone!
+
+Here's a lineup of the new effects:
+
+1. Squish
+2. Crush
+3. Cakeify
+4. Inflate
+5. Deflate
+6. 360 Degree microwave rotation
+7. Gun Shooting
+8. Muscle show-off
+
+If you want to generate using these LoRAs right now for free, you can do so in our Discord: [https://discord.com/invite/7tsKMCbNFC](https://discord.com/invite/7tsKMCbNFC)
+
+You can find all these LoRAs on our HuggingFace: [https://huggingface.co/Remade-AI](https://huggingface.co/Remade-AI)
+
+All our LorAs and more results can be found on our CivitAI profile: [https://civitai.com/user/Remade](https://civitai.com/user/Remade)
+
+The workflow I used to run inference is this one: [https://huggingface.co/Remade-AI/Squish/blob/main/workflow/wan\_img2video\_lora\_workflow.json](https://huggingface.co/Remade-AI/Squish/blob/main/workflow/wan_img2video_lora_workflow.json)
+
+We plan to release a ton of LoRAs and are looking for recommendations on what to train next, so drop yours here or on our Discord! Any questions welcome :)"
+561,mhce9qo,1j99pvw,3,You do crush closed source indeed
+562,mi0xyez,1j99pvw,1,More AI slop
+563,gi0wflh,kpy88j,18,See AdaBoost
+564,gi1m3cw,kpy88j,16,"Ngl, this post shows way too many small and big signs of weak foundation of knowledge in AI. I’d recommend getting a better foundation, before starting a research project. It’ll save you a lot of time.
+A bit more advice: if you wanna start comparing human learning to machine learning, you better know what you’re talking about. This seems to piss off a lot of experts in psych and neuro fields.
+
+Edit: I read over my comment and thought it came off harsher than intended. I think it’s important to ponder ideas, but new ideas with weak foundational understanding leads to lots of wasted time."
+565,gi0xo8z,kpy88j,5,"Humans learn better because of our huge amount of long term memory.  Also, we know a little bit about everything, using past knowledge to help learn new things.
+
+A person might learn a song quickly because they are also a linguistics expert, or a math major."
+566,gi1ga7f,kpy88j,5,"In reinforcement learning prioritized replay buffers are used instead of uniform random sampling of data gathered from interacting with the environment. This increases sample efficiency by preforming gradient updates on samples with high training error. I havent seen this applied in standard deep learning applications like classification but i assume it would work fine.
+
+https://arxiv.org/abs/1511.05952"
+567,gi1heax,kpy88j,3,Meta Learning?
+568,gi1q3zo,kpy88j,2,"There is a paper related to training sample selection, this indeed reduce training time."
+569,gi1y05p,kpy88j,2,"There are quite a few techinques have been introduced to accelerate the training:
+- Adaptive learning rate i.e. Adam, Adagrad...,
+- Hard sample mining i.e. focal loss
+More to list here."
+570,mxc1fm9,1l9cqn2,10,"
+> Noor suggests Apple's findings only highlight LLMs' limitations when misused, not a fundamental flaw in Al reasoning.
+
+Well, yeah? Wait. Did anybody who works on the technical side of building these models actually think that a function approximation machine was a drop-in replacement for a combinatorially hard task, like search?"
+571,mxcm7c0,1l9cqn2,5,"I feel like these authors are really saying the same thing. See also:
+[LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks (2024)](https://arxiv.org/abs/2402.01817)
+
+The recent paper from Apple also highlighted specific regimes where LLMs outperform LRMs, and vice versa."
+572,mat8evu,1igweh7,3,"Even recording from individual nerve cells, we barely scratch the surface. Making sense of electrical physiology is beyond the current state of the art"
+573,mattq35,1igweh7,2,Probably not
+574,mav0tce,1igweh7,2,Geoffrey Hinton gave a talk about reading thoughts autoregressively at NeurIPS a couple years ago that was scrubbed from the Internet. i think it was called ‘Aetherial Vectors’
+575,matcpm6,1igweh7,1,"Well, what format are you expecting for your... Mind data realistically ? Define that and you will make a huge step for science!"
+576,mauciw6,1igweh7,1,It's possible in a very narrow but vague sense.
+577,mavdzvg,1igweh7,1,just barely and that also if you're like strapped to a machine they can kinda reproduce your visual imagination ig
+578,mb7zqf9,1igweh7,1,I wish vague science fiction questions like this were banned and this sub was actually about deep learning.
+579,masoxd4,1igweh7,1,its impossible without nanotech
+580,m8u8tdi,1i8kehf,4,"And here I was about to say ""folding laundry""..."
+581,m8v4zg1,1i8kehf,4,P=NP
+582,m8ueek8,1i8kehf,2,"Due to the complex nature of humans, there is no such thing as one solution that could lead to solutions for all other phenomena"
+583,m8w6zlb,1i8kehf,2,I aways had the impression that this sub was more scientifically and mathematically oriented than the other subs focussing around AI. Maybe we can keep it that way? I don't see any value in asking LLMs philosophical questions and posting the response. Your post might be better suited for r/ArtificialInteligence.
+584,m8v8533,1i8kehf,1,AGI
+585,m8v9xnt,1i8kehf,1,"Humans / Animals and all living beings are ai bots created by the One, ofcourse we are not self aware."
+586,m8vew96,1i8kehf,1,Unified Field Theory would be a big one.
+587,m8u8x12,1i8kehf,-2,"
+
+deepseek v3:
+
+The most pivotal problem AI could solve, which would significantly aid in addressing all others, is **enhancing global cooperation and decision-making**. 
+
+**Why This is Critical:**
+1. **Collective Action Challenges**: Many global issues—climate change, pandemics, resource distribution—require transnational collaboration, often hindered by geopolitical conflicts, short-term thinking, and misaligned incentives.
+2. **AI's Role**: AI could act as a neutral mediator, analyzing vast datasets to propose equitable solutions, predicting outcomes of policies, and facilitating real-time communication across languages and cultures. It could also model complex systems (e.g., climate, economies) to identify leverage points for intervention.
+3. **Cascading Benefits**: Improved cooperation would enable coordinated responses to crises, fairer resource allocation, and more effective governance. This would create a foundation for solving interconnected problems like inequality, environmental collapse, and health disparities.
+
+**Impact on Other Issues:**
+- **Climate Change**: AI-driven global agreements on emissions and renewable energy adoption.
+- **Pandemics**: Real-time data sharing and vaccine distribution optimization.
+- **Conflict Resolution**: Predictive analytics to address root causes (e.g., resource scarcity, political instability).
+
+By breaking down barriers to collaboration, AI could transform humanity’s capacity to act as a unified force, turning fragmented efforts into synergistic solutions. This would not solve every problem directly but would create the conditions for systemic progress across all domains."
+588,m6ogdwl,1hxz8lw,3,We are nowhere near “AGI”. It’s probably not even really possible with current transformer based frameworks anyway. Interesting problem academically if you want to write about it but it is purely academic. 
+589,m6f3zlr,1hxz8lw,4,"This is honestly a fine article/post on the topic, but I hate the ""what nobody is talking about"" title. This has been a constant topic of conversation for decades.
+
+Wall-E is a Disney movie that explores the topic that came out 16 years ago. People were talking about this in the 70s. Heck, the concept was discussed during the industrial revolution (in relation to automation, not AI).
+
+Nobody has a perfect *answer*, but *everyone* is talking about it."
+590,m6dy8k7,1hxz8lw,4,"aback fuzzy bike compare outgoing adjoining yoke screw towering unpack
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*"
+591,m6ttyfi,1hxz8lw,1,Its a parallel shift of what you do or its war.
+592,m6ytr0f,1hxz8lw,1,"While I do see the problem of ""AI taking everyone's jobs"", (i.e. if you look at the actual facts, GenAI seems to have an impact of roughly 20% job listing reduction as of now in certain areas : https://hbr.org/2024/11/research-how-gen-ai-is-already-impacting-the-labor-market). I also do think it's a matter of how that would be used in the end. In a positive outlook setting, we could all leverage that and be hyper productive. Also, in a very negative scenario, a company that gets to AGI could also not share that solution and dominate almost every field... But do notice, however, that as this kind of tech becomes more accessible, every person could potentially have their own AGI solution, and there are many unkowns with respect to that. ""Intelligence"" as we know, is it really without an upper bound ? Is it possible to be ""infinitelly"" more intelligent ? In the end, AGI could become more like a general computer that amplifies each person's productive capacity. It's very likely that Chat-GPT is only accessible to everyone because it's not that powerful. It's certainly amazing and useful, but it's not AGI in that sense."
+593,m6dddq5,1hxz8lw,1,The economic system just needs to adapt
+594,m3oiyp9,1hlrhjd,18,"You need linear algebra for understand how the network is designed and structured, calculus for understanding back-propagation (how the network learns) and statistics for building good datasets, designing or selecting loss functions, and for evaluation/ measuring performance."
+595,m3ok3fs,1hlrhjd,7,"As others said, LinAlg, Prob/Stats, and basic Calc (chain rule) are the fundamentals. If you want a structured,  but flexible way to learn, this is great: [https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/). 
+
+Discuss it with ChatGPT — it's insanely helpful in navigating and understanding what you need to learn and why."
+596,m3pbewz,1hlrhjd,3,Calculus 1 chain rule
+597,m3pkoxi,1hlrhjd,2,"Matrix multiplication/additions and activation functions, understanding of probability to understand the output of the network.
+
+Gradients and chain rule for backpropagation
+
+It's a lot of stuff but the concepts are not that hard to understand. I don't have a degree only basic highschool knowledge I finished 20 years ago."
+598,m3oisxx,1hlrhjd,3,More important than math will be your ability to research and google things.
+599,m3p4b9d,1hlrhjd,2,"Depends on how deep (pun unintended ) u wanna go in learning deep learning, as someone learning LLMs right now, if u just wanna play around with the code, do some small projects u dont really need any specific math knowledge"
+600,m3xu9ry,1hlrhjd,1,[https://imgur.com/a/ml-dl-syllabus-aqTz0yw](https://imgur.com/a/ml-dl-syllabus-aqTz0yw)
+601,m3pdj6k,1hlrhjd,1,CS undergrad math covers most topics needed
+602,l3c97m9,1co6nbv,10,More data or weaker model
+603,l3e4hqy,1co6nbv,10,"1. Add more data  
+2. try data augmentation  
+3. reduce model depth as per result model is too complex to learn data  
+4. try adding batch normalization and dropout  
+5. if data is less try k fold validation  
+6. use transfer learning to extract feature being top over of simple Dense/conv layer i.e. fully connected layer
+
+7. Try to use earlystop callbacks
+
+
+
+These are my checklist suggestions.
+
+I don't understand either your model is overfitting or not. Next time try to plot (training\_loss vs validation\_loss) and upload the screenshot here"
+604,l3d68bs,1co6nbv,4,"Also a novice here, wouldn't early stopping help?"
+605,l3cjutb,1co6nbv,2,"The model might be too complex. Also, have you tried data augmentation?"
+606,l3dd63g,1co6nbv,2,Try add more data! Or reduce the model size. Add weight decay and dropoffs ~ and of course! Early stop
+607,l3ei1b4,1co6nbv,2,"Dropout
+
+Regularization in the loss function (penalize model complexity, reducing the tendency to overfit)
+
+Early stopping
+
+Model checkpointing based on the validation set - just use the version that did best on validation, generally this will be before the end of the training run"
+608,l3cejhk,1co6nbv,1,Whats the test loss?
+609,l3dg2c7,1co6nbv,1,Do an error analysis to know what the model gets it wrong first.  Look at intermediate layers. What lights up in these layers relate to the images.
+610,l3ecj2g,1co6nbv,1,"I think it could be better, if you add more data or more “noise”."
+611,l3dgtbm,1co6nbv,0,Old but gold: https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
+612,ktjpltj,1b7ejqu,1,"I'm blown away by this post on AI tools! As someone who's been reading ""Eternal Gods Die Too Soon,"" I can't help but draw parallels between the novel and these advancements.
+
+In the book, AI plays a pivotal role in shaping the narrative. It challenges readers to question the nature of reality, time, and existence—themes that resonate with the concerns raised about AI's impact on our society.
+
+Modrekiladze's novel explores the interplay between science, philosophy, and art, similar to how AI prompts us to rethink the boundaries between these domains. ""Eternal Gods Die Too Soon"" also delves into the complexities of human nature and offers insights into the potential for societal downfall. These are all profound topics that AI forces us to grapple with as we navigate its integration into our lives.
+
+I highly recommend checking out ""Eternal Gods Die Too Soon"" if you're interested in exploring these themes further. It's a thought-provoking and deeply immersive read that will leave you contemplating the nature of our universe and our place within it."
+613,kus9hef,1b7ejqu,1,"This is incredible, thank you. I would add RikiGPT, which I liked more than Textero. With Riki you just fill out a quick form with your essay details and get a full paper to your email. Super academic with in-text citation, bibliography with verified references, translated copy. It actually writes whole pages instead of a paragraph and can do up to 200 pages."
+614,mhi31k9,1b7ejqu,1,"**Great list OP! But there are much better alternatives for AI writing. To name a few:**
+
+* Jenni AI
+* Yomu AI
+* Unriddle
+* Aithor
+
+If I had to pick one, Jenni AI would be the best for AI writing. I also wrote a more in-depth review if you're interested: [https://www.aiwritingspace.com/reviews/jenni-ai](https://www.aiwritingspace.com/reviews/jenni-ai)"
+615,kthzi0h,1b7ejqu,0,[deleted]
+616,k52zhsq,178x1gw,3,"It's an interesting thought but I don't think any of these analogies are very solid. PTSD, anxiety, and phobias for example, probably involve a malfunctioning amygdala, a specialized structure specifically responsible for *fear* (extreme oversimplification of course). ANNs don't have specialized structures like this, or low-level behavioral impulses like ""fight or flight"". They also don't have any equivalent to hormones like cortisol or adrenaline, which can affect our behavior in complex ways when they're amiss.
+
+Could you have a mental ""disorder"" in an ANN? I don't see why not. Of course there are lots of well-known problems with training and network architecture that typically manifest as poor performance. But I think we'll see more interesting failure modes once we start building systems that run continuously. For example, some future version of AutoGPT might get into a ""thought spiral"" where the more it thinks a certain way, the more that viewpoint is reinforced in its weights. I actually think *that* is a lot more like what happens in humans - we get stuck in all sorts of positive feedback loops, sometimes dwelling on unhelpful ideas for years at a time."
+617,k53reir,178x1gw,1,"Check out the field of behaviour analysis for a formalisation of these ideas. Reinforcement learning derived from psychology, and though less popular now than it once was it still has elaborate model’s describing and predicting the relearning pattern that would create these psychological labels"
+618,jhmqvg6,12yagqv,7,"This is a low effort, AI generated post that is so full of errors it's not worth the digital paper that it's printed on. No, I'm not going to subscribe to your shitty newsletter or blog or whatever crap you are shilling.  
+&nbsp;  
+The actual teacher behind this is a German male named Christoph Schuhmann and his database is called LAION. Since the rest of the OP is even less accurate, I'll not waste my time further.  
+&nbsp;  
+Can we please ban this kind of shit poster?"
+619,i3p7iun,txzxfg,3,[deleted]
+620,h6y9l9c,otwx7k,0,"amazing deepfake, but what surprise me is the fact that is deepfaking the body and all the head"
+621,fsyl79k,gx0olf,1,What an absolutely uninformative post. There is nothing but a logo. Downvoted.
+622,flwurkr,frmh4k,3,https://www.reddit.com/wiki/selfpromotion
+623,m7t5pxf,1i48oqr,19,"From my personal experience, more people seem to be using PyTorch these days with older packages in TF"
+624,m7twnvw,1i48oqr,17,Most implementations of scientifuc papers ~70% are in pytorch.
+625,m7tvam2,1i48oqr,10,"Pytorch. Straight forward, good documentation, plenty of deployment options. You cannot miss."
+626,m7t796i,1i48oqr,8,Torch friend
+627,m7y1cgh,1i48oqr,4,"I would suggest PyTorch. I have limited experience using both, but I have run into more problems using TF because of one or the other thing being deprecated with changes in point versions (say, 2.14 to 2.15).
+PyTorch from my experience works well both on Windows as well as Linux, so that’s an added advantage."
+628,m7z91rv,1i48oqr,5,"Keras 3.0
+( You like pytorch, bam there is an option for that. Tf no problem bro settings for that. Jax ... Ya they got that too)
+
+Stop with the ""which platform"" and use an abstraction layer.
+
+There are reasons why we no longer program in assembly or cuda ...."
+629,m7u34jw,1i48oqr,7,PyTorch. It deals with CUDA for you. Every time I need to install/change CUDA on my machine I waste at least a whole day faffing around with it.
+630,m7vxnsm,1i48oqr,7,Pytorch with Lightning :P
+631,m7tppe4,1i48oqr,4,Pytorch
+632,m7trk8x,1i48oqr,5,Torch
+633,m7u1tf3,1i48oqr,5,torch
+634,m7zgj8e,1i48oqr,2,PyTorch. I tried both a few years back and liked PyTorch better. Not to mention most people are using that now.
+635,m83bak1,1i48oqr,2,"since you are a beginner start with TF, keras is awsome and will be more than enough for your learning...However, when you want to have more control and tinker with little stuff then pytorch is the only option"
+636,m84fqc3,1i48oqr,2,"Depends on the functionality and the base models you want to use. If there is no functional difference availability in your needs, I like PyTorch as I find it slightly less cumbersome. There’s more support for the common libraries that I use, but it all depends. 
+
+For example, if you’re building prototypes and are using FastAI for their LSTM, you’ll want to use PyTorch. But recently, I’ve also recently made a forecasting prediction engine using tensorflow, as I didn’t need or want all the FastAI dependencies."
+637,m87etjc,1i48oqr,2,"PyTorch and Tensorflow are very similar. If you learn one of them, you can change it later. I started to learn  Tensorflow, but PyTorch is ""more liked"". I have an article about the difference between the gradient calculation systems, autograd and GradientTape. Maybe it helps. [https://medium.com/better-programming/how-machines-can-learn-using-tensorflow-or-pytorch-8f85cd04979d](https://medium.com/better-programming/how-machines-can-learn-using-tensorflow-or-pytorch-8f85cd04979d)"
+638,m8pc59h,1i48oqr,2,"If you are new, then choose PyTorch! Super intuitive and a lot easier to debug. Very good for learning. TensorFlow is powerful too, mainly for production but PyTorch feels more beginner friendly. Now you have the theory behind it, with PyTorch, you can put things into action faster."
+639,m7un9tv,1i48oqr,4,"Torch. Better performance and I personally find it easier to use. I don't know what the tensorflow developers have in mind, but they don't give a fuck about the needs of the community."
+640,m7utum0,1i48oqr,2,I have a lot of experience with TF but it’s worth it doing Torch instead.
+641,m7ybxdk,1i48oqr,2,"also check JAX, although for beginners PyTorch is the best.
+
+Most github repos are based on PyTorch, sometimes JAX. I have almost not seen Tensorflow being used in github repos nowadays"
+642,m7yflo4,1i48oqr,2,JAX
+643,m841qa3,1i48oqr,1,Pytorch or Jax is the actual question
+644,m8lz2ut,1i48oqr,1,"Since you spend around 85% of your time on your dataset, and 10% on the DL specific lines of code, the choice of Tensorflow or Pytorch is not the biggest deal. You may learn both, start a project in TF and then switch to PyTorch within the same project (or the other way). Still this will be not much compared to all the rest (espacially concerning the time spent on your dataset)"
+645,m7t9zuz,1i48oqr,-1,Tensorflow
+646,kafk0ol,181zwb8,15,None that I'd trust! Open any LinkedIn post or twitter thread in the AI space if you want heaping piles of baseless speculation.
+647,kag2fb2,181zwb8,7,I don’t understand how’s this revolutionary. Isn’t deep Q learning a thing since the 1990s ? People are just using it for fake information
+648,kafxr0q,181zwb8,4,I heard it's going to revolutionize the field of teledildonics
+649,kafy231,181zwb8,3,![gif](giphy|7fLvK10wH1Mpa|downsized)
+650,kag7r2i,181zwb8,2,"there was some speculation about this on r/MachineLearning. 
+
+I thought these 2 comments were fairly interesting:
+https://old.reddit.com/r/MachineLearning/comments/181o1q4/d_exclusive_sam_altmans_ouster_at_openai_was/kadmprj/
+
+https://old.reddit.com/r/MachineLearning/comments/181o1q4/d_exclusive_sam_altmans_ouster_at_openai_was/kaebuay/"
+651,kb03p4q,181zwb8,0,False… need more investor money
+652,kagcmqh,181zwb8,1,The rumour is false
+653,kakp5ro,181zwb8,1,Let them publish a paper and have it be peer reviewed. What has happened to this field that we react to fumes of industry led hype rumor.
+654,kambjxy,181zwb8,1,Sure why not pollute EVERY AI related subreddit with this bullshit?
+655,kc8jdfc,181zwb8,1,"Still reeling a little bit on the Q\* stuff, but know one thing for sure, I'll be sporting a Q\* sweatshirt at family gatherings to start the fiery convos: [www.dense-rewards.com](https://www.dense-rewards.com)"
+656,mjwmesb,1jkkymd,16,"I have an advanced degree in AI with a focus on reinforcement learning and transformer-based models (like the ones you're discussing). I tried to read through the things you're posting to see why you might be getting censored.
+
+I'm sorry, but the stuff you're posting is not rigorous in the way you seem to think it is. The things you're saying don't actually have well-established meaning, and you don't establish the meanings yourself. Even with my background it's indistinguishable from AI-generated buzzword soup.
+
+For example, in the full ""framework"" you posted the reinforcement learning-style update functions you cite all contain references to undefined things. You talk about things like ""the weight of pathway i"", which \*sounds\* very much like rigorous math but has no meaning whatsoever.
+
+Your first ""core principle"" is just an extremely opaque and less rigorous description of the concept of deep reinforcement learning. Your other core principles seem to refer to problems that are neither well-known under the names you're using, nor defined by you. ""Multi-layered reinforcement"" is either trivial (referring to input vs hidden layers) or meaningless (referring to a concept of ""layering"" which is not defined in your document).
+
+The whole document is like this. You reference Python functions that don't exist or have clear meaning. Your ""step-by-step instructions"" contain steps like ""set up X, Y, and Z"" where ""X, Y, and Z"" are core implementation details that are left out. You never reference outside sources for anything you talk about. You ""introduce"" concepts that already exist like ""adaptive learning rates"".
+
+You don't have a ""framework"" or ""wall-to-wall math"", you have repetitive ramblings interspersed with undefined equations. Your content is being removed because it seems like you are either too unfamiliar with the subject-matter to see the major problems with your posts or you're experiencing mania and need help (which we see all the time on these subs)."
+657,mjw2p4c,1jkkymd,11,"Why should I trust u? You are as strange to me, as he is."
+658,mjwhvo7,1jkkymd,6,"Got to subreddits for crazy people or create one, what's the problem? There are subs like r/HypotheticalPhysics specifically to isolate people like you and give you a playground."
+659,kwx8qq6,1bpotka,31,"Remember how much more difficult it was to ""solve an equation"", rather than just ""evaluate"" it? Well it turns out many equations can't even be solved (this was proven a long time ago), and it gets harder and harder the more complex they are. 
+
+Small neural networks have millions of parameters already so noone even tries to solve them, it would take your entire life and then some, jusfor that single neural network. Big ones now have trillions of parameters.
+
+Gradient Descent allows you to train your network with only using ""evaluation"" which is quite easy and fast."
+660,kwxf0r5,1bpotka,12,"As somebody already pointed out, this is a least squares regression. As somebody else pointed out, with modern problems, there are lots of variables and this becomes computationally difficult. I think the point that's missing though is that solving for a minimum would also constitute overfitting (please somebody correct me if I'm wrong here). 
+
+In modern machine learning (deep) neural network training problems, we have large datasets, but we don't have complete datasets, because the full domain space is intractable (not necessarily infinite, but practically so). The space of possible inputs is exponential in order of the input variables, but the space of plausible inputs is a subset of those (there are lots of possible pictures of puppies, cats and other things that we see with our eyes, but none of them look like random noise). 
+
+So given that the set of possible inputs is nearly infinite, we can't run a least squares regression on that dataset -- both because it would be computationally impossible, but also because the dataset is not available. So instead we run our gradient descents on the loss function of a hopefully very large sample of inputs. If we were to solve for a minimum, we would actually overfit to that training set and the solution might not work well when applied against samples not from the training set.
+
+By running gradient descent against the loss function with respect to subsamples (medium sized batches) we move toward a somewhat more random minimum to avoid overfitting. Hopefully this region that is close to lots of minimums is not overfit to the full training set -- we verify this by testing against the test samples that we didn't use to train the model. If the model works well against the test set, then we expect it to work well out in the wild. Of course if the real world samples are drawn from a different space than the test samples, we shouldn't be surprised when things break down (which is often the case). Imagine if you had a set of pictures of dogs and cats and you trained a model to identify dogs or cats. That model only works when presented with a picture of a dog or a cat. When you present it with a picture of a human, it is forced to guess dog or cat because it has the ""a priori"" knowledge (assumption) that the world is only made up of pictures of dogs or cats."
+661,kwxhnj2,1bpotka,7,Because nonlinearity makes that too hard.
+662,kwxi7if,1bpotka,13,"The problem is highly non convex, finding a stationary point likely yields a local minima."
+663,kwxombq,1bpotka,7,">solve for dy/dx = 0
+
+Good luck solving those equations
+
+Hint: Many of them are almost unsolvable"
+664,kx0yxop,1bpotka,2,"People already told you how hard it is to solve dy/dx = 0 for a complex model architecture. To understand this, [This is how matlab handles equation solving](https://www.mathworks.com/help/optim/ug/equation-solving-algorithms.html). Therefore computationally we actually solve equations through formulating them as an optimization problem."
+665,kwx567z,1bpotka,3,"There's no closed form solution (which is dependent on the data), otherwise all models of the same architecture will have the same weights independent of the data."
+666,kwz7ay7,1bpotka,1,"I think chatgpt has like upwards of 100 billion parameters, each has to be optimized. It was trained on the order of several trillion tokens I'm pretty sure. So you're working with a 100 billion+ dimensional space on which you are trying to minimise an expression with several trillion terms. Assuming you even have a reason to think it's solvable, how would you go about solving it? And once you do, which minimum is the global one? There's probably equivalently many minima you're gonna obtain, each of which has to be compared to the others and evaluated (which, again, entails running the model on several trillion tokens of data) who knows how many times. It's just simpler to use SGD or something."
+667,kwzyes8,1bpotka,1,"The way I understand it is that it is a lot less efficient to search for a solution rather than doing an estimation. 
+
+For example, for a linear regression you can solve the equation that minimises the squared error. But in order to do that you need to find the inverse of a matrix which requires far more compute power than doing an estimation if you have a lot of data"
+668,kx2bze4,1bpotka,1,"That only works for conditions where a closed-formed solution is actually computable, in non-convex scenarios it becomes extremely difficult to do so and hence we need approximation methods like GD/SGD or Newton’s method"
+669,kx2wpve,1bpotka,1,"We actually try to do that. If you want to solve an equation you can solve it symbolically. But for a problem with more than a couple of variables it is very hard or impossible, so we use iterative approximation methods until we are close enough to the solution. So you evaluate some initial values, see the output and move in the gradient direction, and you repeat this several times. And you have to do this evaluating with your whole dataset. So running a model several times (thousand or million times) with your whole dataset is very very expensive. We also know that if we use a step size (learning rate) and a subset of the data we also move closer to the solution. That is great because we don't have to use the whole dataset. And this is how how have SGD and it's variants."
+670,kx8i0fs,1bpotka,1,"Simply put - the cost and weight space for a DL model is n dimensional, for which you can't just use a derivative thus you have to use gradient decent"
+671,kxbjqe6,1bpotka,1,Because the optimization space is rarely as simple as quadratic. You cannot linearly extrapolate.
+672,kwx7r45,1bpotka,1,That's basically what you do with ordinary least squares regression .
+673,kwxk2sw,1bpotka,-9,"what you’ve described is Newtons method. Long story short, Newtons method requires the Hessian of the loss function which in practice is very expensive to compute."
+674,kb4ypb2,185zt1o,16,But why so clickbaity my friend :(
+675,kb4wdon,185zt1o,2,[deleted]
+676,kb5trio,185zt1o,2,Whats the impact on inference speed?
+677,kb511yp,185zt1o,1,"Do you know how much overhead is added for loading/unloading shards?
+
+I'd imagine this could also be optimized to try to predict the next shards that will be needed and start loading those."
+678,mjia7zn,1jiv5he,7,Wrong sub. Too obvious as an ad.
+679,muucg2z,1jiv5he,4,[removed]
+680,ml4fq4l,1jiv5he,1,"I've been browsing Reddit for a couple of hours looking for a good post with reasonable prices. So far, this review is my favorite (and I've checked out a lot)"
+681,muudam6,1jiv5he,1,My thesis statement was perfectly written thanks to them
+682,fqn8x0j,gjtqzx,7,This is not deep learning.
+683,fqn96d3,gjtqzx,4,This just looks like motion tracking
+684,fqpn1fb,gjtqzx,2,That is a very a ugly O
+685,fcfo7i6,eh6myw,11,[deleted]
+686,fcfjsjh,eh6myw,0,r/nanonets
+687,esq02pg,c8u7j3,6,I don't get what the use of this would be. For people to take a photo of themselves to know their measurement? Instead of simply measuring themselves? Sounds like an anti-solution to the problem.
+688,espx7da,c8u7j3,9,For ‘science’ right...?
+689,esq0cpk,c8u7j3,11,Sexual harassment is why women leave tech. I don’t see why you would think this is funny or appropriate
+690,hhj8zei,c8u7j3,1,There are businesses using CV to do this already R.I.P. but I do envy your courage of saying this on Reddit
+691,mtgrp6x,1krub6y,3,This post was brought to you by ChatGPT and ctrl+c/ctrl+v incorporated.
+692,mtgxd1p,1krub6y,3,this is utter bullshit.
+693,mtj0apo,1krub6y,3,Executive AI? More like CEO of Yapping
+694,mud8ffl,1krub6y,1,"Really comes down to what “best” means. If commoditized models offer 90% of the capability at 10% of the cost and effort, most companies will take that tradeoff. Open wins when it’s “good enough.”"
+695,mudaqxc,1krub6y,1,"It’s true that Google AI is heavily restricted due to liability, but that’s exactly why we built Covertly.ai to give people a space to use AI without moderation, surveillance, or data retention. It’s not about reckless freedom it’s about restoring autonomy to the user."
+696,mkw3j7h,1jp1huc,10,[deleted]
+697,mkwa3xs,1jp1huc,3,"Yes and Linux can be around 5-10% faster on GPU workloads, and frameworks are typically developed and optimised on Linux first"
+698,mkwn0mt,1jp1huc,3,"If you are just getting started then Jupyter/VScode + Linux. Unless there's hard requirement that forcing you to use Windows.
+
+TBH it should work on both platforms. Nowadays it's not like there's a particular thing I could only do on windows or only on linux. It's more like one thing is naturally well supported on a particular platform, that one doesn't need to spend a lot of time to make things work."
+699,mkx6ut4,1jp1huc,2,"Unless youre using ""proprietary"" gpus you probably don't have to worry about linux. E.g. AMD gpus work with Pytorch on Linux but not Windows. If everything works with your system on Windows I would say use whatever youre most comfortable with
+
+For jupiter notebook vs python file it doesnt matter too much but you'll probably appreciate notebooks more.
+
+Notebooks are helpful when you want add a block of code in between code and quickly run it to test the results, and its very simple to transfer your code to a python file later if you want a more professional or functional version of the code."
+700,mkw4ss8,1jp1huc,1,I adapted better using jupyter notebook
+701,mky0yc3,1jp1huc,1,"IDE and Linux are my daily drivers. Notebooks are purely for testing purposes, then it goes straight into a Python script.
+
+CUDA seems to just work better on Linux and I seem to have so many issues with Python environments and WSL on Windows."
+702,mkyf4n2,1jp1huc,1,"I like Jupyter Notebook and using it on Windows PC always because the notebook features are very well working. In my case the Jupyter Notebook servers are running on Linux servers. However, Jupyter Notebook code completion feature doesn’t work well, so I would like to recommend you to use Visual Studio Code (Jupyter Notebook Extension) instead of Jupyter Notebook and get Visual Studio Code connected to Jupyter Notebook Servers."
+703,mkzgj1a,1jp1huc,1,"Definitely Linux because you will want to containerized your stack right away to isolate the dependencies from your OS. Windows also have containers but it is less efficient.
+
+For IDE it id a matter of taste, but IMO notebook is better when you are learning because you can always jump in the middle, visualize data, plot the weight matrix etc."
+704,mh1d75b,1j80bld,7,No. They just don't want people to steal and fine tune  their models with the reasoning. Diffusion is autoregressive as well btw
+705,mhqv6vv,1j80bld,1,"I hope people know what diffusion LLM or DLLM is..You can checkout this website for resources-
+
+  
+[https://diffusionllm.net/](https://diffusionllm.net/)"
+706,mcbfhoe,1ini15h,2,"Great man, there are big topics, like classical machine learning (for example random forests, svm, trees, ensembles like xgboost, k-means) used for regression, classification and clustering. Then you have deep learning where the neural networks take place and there you also have some big topics like  computer vision, LLM, also regression and classification tasks, some time series, so you cam begin wirh rhe classical ones and then go for the deepths of ML reaching DL"
+707,mcc9jlv,1ini15h,1,"I am looking for collaborators in one of my some projects. May be you can learn from it too. The projects I am doing these days are related to data generation for computer vision. If this sounds like a good start, dm me."
+708,mcce6yc,1ini15h,1,How much time does it take to master them from scratch to advance?
+709,mceccgz,1ini15h,1,1.5 years
+710,mck0fph,1ini15h,1,"I encourage everyone to pick a personal project unique to you.  Dont force it to be in any machine learning framework.  Experiment with non traditional methods of reducing LLM user service burden, compare LLM performance against traditional performance, break the rules, solve problems 10 times with 10 tools each and high level analyze your decision making.  Supplant your own design decisions.
+
+For example, machine learning can be reframed in so many ways.  I have found a lot of utility in not turning my nose up at more qualitative approaches to arrive at a reliable set of outputs for a given “function”.  Play with the semantical difference of the old paradigms with these, and lay into that.  How can you create value no matter what tool, how you the user, form prompt or info flow, test human interaction and input style against model architecture and task - etc.  make it real"
+711,ma8rc29,1iem5nr,2,kate's statement is at 10:08
+712,ma97xk5,1iem5nr,1,"I think you might be a little confused about what Jevon's Paradox is.  
+
+It's the term used for the phenomenon in which, somewhat counterintuitively, the advancement of improving the efficiency of something causes us to use the thing more, rather than less.  
+
+If it has been taking 1000 grunders to produce a shlorm and somebody comes up with an advancement such that it now only takes 75 grunders, it seems logical that because now we don't need so many grunders to make a shlorm, the demand for grunders should decline. In actuality, history has shown that what happens is that the demand for shlorms skyrockets, increasing the demand for grunders. 
+
+The relevance of Jevon's Paradox in the context of automation via AI is that automating human tasks will not decrease the demand for humans, but increase it."
+713,ma8s7ed,1iem5nr,1,You have no idea what you're talking about.
+714,liugi7h,1evwa3d,8,"If a weight matrix is invariant under a symmetry operation, SW = W, then its derivative will also be so (some caveats apply).
+
+In which case it will remain symmetric, limiting the space explored."
+715,liuf12h,1evwa3d,8,"Not sure what gpt meant by far as possible, NN weights are usually initialized using normal distribution, which is both symmetrical and places most weights close together at around 0. Where did you read about symmetrical values in weights?"
+716,liue2xw,1evwa3d,11,"Can you clarify what you mean with „must not be symmetrical“?
+
+Beside that. Here is another way to think of it. You are on a mountain and you let a few balls roll down. Wouldn’t it be smart to choose different/random positions in the mountain to ensure they take different paths downhill?"
+717,liugrn3,1evwa3d,4,"There's not a big literature behing parameter initialization strategies, unfortunately.
+
+For parameters initialized with the same value (e.g. zero), as you correctly said, the parameters of the units would be updated with the same value and compute the same function, making it redundant.
+
+The second point, useless and irrelevant, it's an interesting one about weight values, but has little impact on the underlying theory.
+
+The next part is more theoretic and requires some knowledge of the *weight-space symmetries*.
+
+One interesting fact about ANNs is that multiple choices of the weights can converge to the same input-output mapping. Take for example an ANN where we switch the sign of each of the **W** weights in a specific hidden layer with *tanh* activation (this is not inherently associated with *tanh*, but can be extended to a variety of activation functions (Kurková, Keinen 1994)). Since *tanh* is an odd function, *tanh(-x) = -tanh(x)*, thus changing the sign of the activation, but now we can compensate this by changing the sign of all the weights leading out of that units, leading to the previous point, we are led to the same mapping function! So, for **W** hidden units, there are **2\^W** equivalent weight vectors.
+
+Same thing happens if we permute hidden units: for **W** units in a layer, we have **W!** possible equivalent permutations, giving rise to a symmetry factor equal to **2\^W \* W!**.
+
+Now: theory is not going to explain much further than this, but my intuition is that, given those symmetries on the whole layer, there could be a case of piecewise symmetries that can lead to redundant learning: Imagine an ANN with single-unit output layer and a hidden layer with *tanh* activation function. Let's suppose the hidden layer with 2k units gets initialized with two identical sets of weight of length k, first for weights from 0 to k-1, second for weights from k to 2k-1. Those two subsets would learn the same mapping too due to the same error propagations!
+
+Randomizing from a uniform distribution *U\[-t,t\]* or a zero-mean Gaussian *N(0, t\^2)* with a sensible choice of *t* (He et al, 2015b) avoids these shenanigans, so you're good to go.
+
+EDIT: My point is not only valid for a dichotomic repetition of the weights in the hidden unit. Of course the same case can happen for smaller subsets, even non-adjacent ones."
+718,liv5vt2,1evwa3d,2,"Can you paste exactly the entire paragraph you read about symmetry? It is possible that you misunderstood what it meant.
+
+I speculate that the symmetry you read is not with regards to the sampling function for weight initialization, but rather regarding the output of all neurons will be symmetrical, if not for random weight initialization, due to having equal gradients.
+
+I always tell people: NNs are really genius at approximating any function, despite relying on one of the dumbest optimization methods, that is the gradient descent"
+719,livabq8,1evwa3d,2,"why are the networks initiated randomly at all? Because they are point neutral networks, not Bayesian models. There is no random initialization in Bayesian models because it's learning/inference by marginalization. There is no such thing in neural networks, and the weights can't be 0.0 because then it wouldn't learn anything. It is also usually not possible to initialize the parameters with the x vectors of the training set.
+So the only way out is to initialize randomly. 
+
+Breaking of symmetry is explained in another great response here."
+720,lixaoy6,1evwa3d,2,"Another interesting perspective given by Johnson-Lindenstrauss and Restricted Isometry Property is that random projections are extremely likely to preserve the original geometry given certain realistic assumptions. So if you want to initialize in a way such that information has a good chance to propagate through the whole net but you don't want to assume much about the data, gaussian iid noise is a pretty good way to achieve this"
+721,liv3ked,1evwa3d,1,"https://arxiv.org/html/2403.04861v2
+The winning lottery ticket hypothesis proposes that you'll get some random combination that actually works."
+722,l5r26rq,1d10yqq,2,Getting better at actual technical skills in the cloud. Like study for the Machine Learning Engineer exam on AWS or GCP and take the test.
+723,l5t9x22,1d10yqq,1,"AI engineer in healthcare sounds like it would be potentially really impactful or meaningful. Though seems like you may be given dull work to do.
+
+Can I ask what degree you did?
+What does your daily work look like?
+What problems would you rather work on?
+
+I’m a software engineer. I wish I was working on something much more impactful but find it really hard to find companies hiring where I have a clear idea of what I might be participating in. Really wish job ads on seek etc weren’t so vague and cookie-cutter. I want to be excited by the companies mission not just get paid to make something."
+724,l5uohdi,1d10yqq,1,"I think we indeed work on similar fields  
+I work as research engineer in bioinformatics field  
+I had same thought so I started reading mathematics behind NN."
+725,l0ktk2l,1c9e6dj,9,"No.  Because the cool shit isn't happening in LLMs, even from a research angle."
+726,l0nlzq2,1c9e6dj,4,0 shot classification / labeling
+727,kyt891o,1bznxfa,1,[removed]
+728,ljumrtm,1bznxfa,1,"Hey, I'm interested"
+729,kjqs71u,1able41,2,Step 1: uninstall langchain
+730,ka9quzj,180usml,1,great
